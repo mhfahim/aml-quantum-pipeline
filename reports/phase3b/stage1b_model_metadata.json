@@ -1,0 +1,48 @@
+{
+  "model_name": "Stage1B High-Recall Classical Screening Filter",
+  "model_type": "logistic_regression_balanced",
+  "purpose": "Improved Stage 1 candidate generation for AML hybrid pipeline",
+  "features": [
+    "amount_received_num",
+    "amount_paid_num",
+    "amount_delta_num",
+    "amount_ratio_num",
+    "log_amount_received_num",
+    "log_amount_paid_num",
+    "hour_num",
+    "day_num",
+    "same_currency_num",
+    "receiving_currency",
+    "payment_currency",
+    "payment_format"
+  ],
+  "numeric_features": [
+    "amount_received_num",
+    "amount_paid_num",
+    "amount_delta_num",
+    "amount_ratio_num",
+    "log_amount_received_num",
+    "log_amount_paid_num",
+    "hour_num",
+    "day_num",
+    "same_currency_num"
+  ],
+  "categorical_features": [
+    "receiving_currency",
+    "payment_currency",
+    "payment_format"
+  ],
+  "training_data": "temporal train split; sampled laundering positives plus sampled legitimate negatives",
+  "max_pos_rows": 180000,
+  "max_neg_rows": 600000,
+  "actual_pos_rows": 180000,
+  "actual_neg_rows": 600000,
+  "total_training_rows": 780000,
+  "neg_sample_frac": 0.003,
+  "seen_rows_before_stop": 274979231,
+  "seen_batches_before_stop": 3497,
+  "model_path": "/kaggle/working/aml_phase3b/models/stage1b_high_recall_filter.joblib",
+  "runtime_seconds": 84.15410169100005,
+  "available_ram_gb": 31.3506,
+  "note": "Training used streaming batch sampling. The full dataset was not loaded into memory."
+}

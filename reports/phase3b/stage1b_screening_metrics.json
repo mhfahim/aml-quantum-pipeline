@@ -1,0 +1,198 @@
+{
+  "stats": {
+    "0.1": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 28737699,
+        "candidate_legit": 28551937,
+        "candidate_fraud": 185762
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 6488075,
+        "candidate_legit": 6431283,
+        "candidate_fraud": 56792
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 6267663,
+        "candidate_legit": 6187210,
+        "candidate_fraud": 80453
+      }
+    },
+    "0.2": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 58505628,
+        "candidate_legit": 58312773,
+        "candidate_fraud": 192855
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 12971094,
+        "candidate_legit": 12912573,
+        "candidate_fraud": 58521
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 12686422,
+        "candidate_legit": 12604182,
+        "candidate_fraud": 82240
+      }
+    },
+    "0.3": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 87727768,
+        "candidate_legit": 87529195,
+        "candidate_fraud": 198573
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 19433947,
+        "candidate_legit": 19374157,
+        "candidate_fraud": 59790
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 19032606,
+        "candidate_legit": 18949110,
+        "candidate_fraud": 83496
+      }
+    },
+    "0.4": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 116698736,
+        "candidate_legit": 116494842,
+        "candidate_fraud": 203894
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 25928954,
+        "candidate_legit": 25867961,
+        "candidate_fraud": 60993
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 25229153,
+        "candidate_legit": 25144532,
+        "candidate_fraud": 84621
+      }
+    },
+    "0.5": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 144880201,
+        "candidate_legit": 144671384,
+        "candidate_fraud": 208817
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 32319252,
+        "candidate_legit": 32257127,
+        "candidate_fraud": 62125
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 31220725,
+        "candidate_legit": 31135034,
+        "candidate_fraud": 85691
+      }
+    },
+    "0.6": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 173339475,
+        "candidate_legit": 173125792,
+        "candidate_fraud": 213683
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 38808645,
+        "candidate_legit": 38745337,
+        "candidate_fraud": 63308
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 37302968,
+        "candidate_legit": 37216183,
+        "candidate_fraud": 86785
+      }
+    },
+    "0.7": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 201872285,
+        "candidate_legit": 201653822,
+        "candidate_fraud": 218463
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 45329128,
+        "candidate_legit": 45264674,
+        "candidate_fraud": 64454
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 43374311,
+        "candidate_legit": 43286424,
+        "candidate_fraud": 87887
+      }
+    }
+  },
+  "thresholds": {
+    "0.1": 0.7876329609654898,
+    "0.2": 0.24392068517543838,
+    "0.3": 0.20166081968076038,
+    "0.4": 0.17943432358783462,
+    "0.5": 0.16260626611483847,
+    "0.6": 0.14766174578846247,
+    "0.7": 0.13378694790016313
+  },
+  "rows_seen": 430920901,
+  "batches_seen": 5217,
+  "runtime_seconds": 1351.4670451850002
+}

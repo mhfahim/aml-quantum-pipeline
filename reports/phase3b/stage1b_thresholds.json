@@ -1,0 +1,30 @@
+{
+  "method": "validation predicted-probability quantile",
+  "score_definition": "stage1b_score = predicted laundering probability; higher means more suspicious",
+  "target_candidate_percentages": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7
+  ],
+  "thresholds": {
+    "0.1": 0.7876329609654898,
+    "0.2": 0.24392068517543838,
+    "0.3": 0.20166081968076038,
+    "0.4": 0.17943432358783462,
+    "0.5": 0.16260626611483847,
+    "0.6": 0.14766174578846247,
+    "0.7": 0.13378694790016313
+  },
+  "validation_score_rows_used": 323490,
+  "validation_positive_rows_used": 330,
+  "validation_negative_rows_used": 323160,
+  "validation_roc_auc": 0.9041305085762938,
+  "validation_pr_auc": 0.014235859021642327,
+  "rows_seen_before_stop": 430920901,
+  "score_sample_frac": 0.005,
+  "runtime_seconds": 76.45762411299984
+}
