@@ -1,0 +1,90 @@
+{
+  "stats": {
+    "0.05": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 14656680,
+        "candidate_legit": 14650549,
+        "candidate_fraud": 6131
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 3235051,
+        "candidate_legit": 3233252,
+        "candidate_fraud": 1799
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 3728786,
+        "candidate_legit": 3726468,
+        "candidate_fraud": 2318
+      }
+    },
+    "0.1": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 29957076,
+        "candidate_legit": 29942732,
+        "candidate_fraud": 14344
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 6470360,
+        "candidate_legit": 6465876,
+        "candidate_fraud": 4484
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 8204036,
+        "candidate_legit": 8198317,
+        "candidate_fraud": 5719
+      }
+    },
+    "0.15": {
+      "train": {
+        "total_rows": 301646401,
+        "total_legit": 301417307,
+        "total_fraud": 229094,
+        "candidate_rows": 45039525,
+        "candidate_legit": 45014795,
+        "candidate_fraud": 24730
+      },
+      "valid": {
+        "total_rows": 64637062,
+        "total_legit": 64570098,
+        "total_fraud": 66964,
+        "candidate_rows": 9676501,
+        "candidate_legit": 9668838,
+        "candidate_fraud": 7663
+      },
+      "test": {
+        "total_rows": 64637438,
+        "total_legit": 64547333,
+        "total_fraud": 90105,
+        "candidate_rows": 11615832,
+        "candidate_legit": 11605991,
+        "candidate_fraud": 9841
+      }
+    }
+  },
+  "thresholds": {
+    "0.05": -0.0016407908742604727,
+    "0.1": -0.04553405685691104,
+    "0.15": -0.06432426733228178
+  },
+  "rows_seen": 430920901,
+  "batches_seen": 5217,
+  "runtime_seconds": 2220.019791238
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_pool_type": "sampled candidate pool from Stage 1 Isolation Forest screening",
+  "target_candidate_pct": "0.1",
+  "threshold": -0.04553405685691104,
+  "negative_sample_fraction_inside_flagged_pool": 0.005,
+  "positive_policy": "all flagged positives retained",
+  "features": [
+    "amount_received_num",
+    "amount_paid_num",
+    "amount_delta_num",
+    "amount_ratio_num",
+    "log_amount_received_num",
+    "log_amount_paid_num",
+    "hour_num",
+    "day_num",
+    "same_currency_num"
+  ],
+  "candidate_dir": "/kaggle/working/aml_phase3/data/candidate_pool_sample",
+  "parts_written": 4038,
+  "kept_rows": 247632,
+  "seen_rows": 430920901,
+  "counts": [
+    {
+      "_split": "test",
+      "_label": 0,
+      "n": 41000
+    },
+    {
+      "_split": "test",
+      "_label": 1,
+      "n": 5719
+    },
+    {
+      "_split": "train",
+      "_label": 0,
+      "n": 149701
+    },
+    {
+      "_split": "train",
+      "_label": 1,
+      "n": 14344
+    },
+    {
+      "_split": "valid",
+      "_label": 0,
+      "n": 32384
+    },
+    {
+      "_split": "valid",
+      "_label": 1,
+      "n": 4484
+    }
+  ],
+  "runtime_seconds": 2131.0412693380003
+}

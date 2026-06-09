@@ -1,0 +1,28 @@
+{
+  "model": "IsolationForest",
+  "purpose": "Stage 1 classical anomaly screening",
+  "features": [
+    "amount_received_num",
+    "amount_paid_num",
+    "amount_delta_num",
+    "amount_ratio_num",
+    "log_amount_received_num",
+    "log_amount_paid_num",
+    "hour_num",
+    "day_num",
+    "same_currency_num"
+  ],
+  "training_data": "sampled legitimate transactions from temporal train split",
+  "train_normal_frac": 0.0005,
+  "max_train_rows": 120000,
+  "actual_training_rows": 120000,
+  "actual_training_features": 9,
+  "n_estimators": 50,
+  "max_samples": 10000,
+  "seen_rows_before_stop": 305413556,
+  "seen_batches_before_stop": 3780,
+  "model_path": "/kaggle/working/aml_phase3/models/stage1_isolation_forest.joblib",
+  "runtime_seconds": 78.49034548100008,
+  "available_ram_gb": 31.3506,
+  "note": "Memory-safe streaming sampling was used. Full dataset was not collected into RAM."
+}
