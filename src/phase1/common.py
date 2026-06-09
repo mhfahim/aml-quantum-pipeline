@@ -63,3 +63,28 @@ def save_json(obj, path: str | Path):
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2, default=str)
+
+
+def parse_timestamp_expr(ts_col: str):
+    s = pl.col(ts_col).cast(pl.Utf8).str.strip_chars()
+
+    return pl.coalesce([
+        s.str.strptime(pl.Datetime, "%Y-%m-%d %H:%M:%S", strict=False),
+        s.str.strptime(pl.Datetime, "%Y-%m-%d %H:%M", strict=False),
+        s.str.strptime(pl.Datetime, "%Y/%m/%d %H:%M:%S", strict=False),
+        s.str.strptime(pl.Datetime, "%Y/%m/%d %H:%M", strict=False),
+        s.str.strptime(pl.Datetime, strict=False),
+    ])
+
+
+def parse_label_expr(label_col: str):
+    s = pl.col(label_col).cast(pl.Utf8).str.to_lowercase().str.strip_chars()
+
+    return (
+        pl.when(s.is_in(["1", "true", "t", "yes", "y", "laundering", "fraud"]))
+        .then(pl.lit(1, dtype=pl.Int8))
+        .when(s.is_in(["0", "false", "f", "no", "n", "legitimate", "normal"]))
+        .then(pl.lit(0, dtype=pl.Int8))
+        .otherwise(pl.col(label_col).cast(pl.Int8, strict=False))
+        .alias("_label")
+    )
