@@ -1,0 +1,3 @@
+model,n_qubits,statevector_dimension,feature_map,estimated_feature_map_depth,shots,hardware_queue_time_seconds,hardware_execution_time_seconds,ansatz,trainable_parameters,estimated_circuit_depth
+quantum_kernel_svc_statevector,4,16,Ry angle encoding + ZZ-style phase feature map,5.0,statevector_exact,Phase 6 only,Phase 6 only,,,
+variational_quantum_classifier_statevector,4,16,Ry angle encoding + ZZ-style phase feature map,,statevector_exact,Phase 6 only,Phase 6 only,Ry layers=2 with CNOT chain,10.0,19.0

@@ -1,0 +1,9 @@
+{
+  "n_qubits": 4,
+  "recall_target": 0.8,
+  "models": [
+    "quantum_kernel_svc_statevector",
+    "variational_quantum_classifier_statevector"
+  ],
+  "note": "These are statevector simulator quantum models on the reduced quantum-compatible feature set. IBM hardware queue/execution metrics are reserved for Phase 6."
+}

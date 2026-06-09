@@ -1,0 +1,4 @@
+track,model,training_time_seconds,validation_inference_time_seconds,train_rows,valid_rows,test_rows,model_path,available_ram_gb
+reduced_quantum_compatible_classical,reduced_logistic_regression,1.9113240389997372,0.0007685780001338571,1600,800,1000,/kaggle/working/aml_phase4/models/reduced_logistic_regression.joblib,31.3506
+reduced_quantum_compatible_classical,reduced_svm_rbf,0.3920395910008665,0.04489715000090655,1600,800,1000,/kaggle/working/aml_phase4/models/reduced_svm_rbf.joblib,31.3506
+reduced_quantum_compatible_classical,reduced_mlp,0.12663493999934872,0.00041410300036659464,1600,800,1000,/kaggle/working/aml_phase4/models/reduced_mlp.joblib,31.3506

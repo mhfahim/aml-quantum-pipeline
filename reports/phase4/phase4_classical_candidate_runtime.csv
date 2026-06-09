@@ -1,0 +1,4 @@
+track,model,training_time_seconds,validation_inference_time_seconds,training_rows,valid_rows,test_rows,model_path,available_ram_gb
+classical_candidate_pool_stage2,classical_logistic_regression,3.761079007999797,0.1378487470001346,328727,88786,111329,/kaggle/working/aml_phase4/models/classical_logistic_regression.joblib,31.3506
+classical_candidate_pool_stage2,classical_hist_gradient_boosting,3.945491544000106,0.3099969209997653,328727,88786,111329,/kaggle/working/aml_phase4/models/classical_hist_gradient_boosting.joblib,31.3506
+classical_candidate_pool_stage2,classical_random_forest,21.996979606999957,0.3548179120007262,328727,88786,111329,/kaggle/working/aml_phase4/models/classical_random_forest.joblib,31.3506

@@ -1,0 +1,10 @@
+{
+  "recall_target": 0.9,
+  "models": [
+    "classical_logistic_regression",
+    "classical_hist_gradient_boosting",
+    "classical_random_forest"
+  ],
+  "target_candidate_pct_from_phase3b": 0.1,
+  "note": "Classical Stage 2 metrics are weighted using the Phase 3B candidate negative sampling fraction. Full hybrid metrics combine Stage 1 screening counts with Stage 2 weighted candidate-pool confusion matrices."
+}

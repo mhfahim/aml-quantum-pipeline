@@ -1,0 +1,9 @@
+track,model,training_time_seconds,validation_inference_time_seconds,training_rows,valid_rows,test_rows,model_path,available_ram_gb,train_rows,feature_state_time_seconds,kernel_matrix_time_seconds,optimizer_success,optimizer_message,optimizer_final_loss,vqc_train_rows_used,train_rows_scored
+classical_candidate_pool_stage2,classical_logistic_regression,3.761079007999797,0.1378487470001346,328727.0,88786,111329,/kaggle/working/aml_phase4/models/classical_logistic_regression.joblib,31.3506,,,,,,,,
+classical_candidate_pool_stage2,classical_hist_gradient_boosting,3.945491544000106,0.3099969209997653,328727.0,88786,111329,/kaggle/working/aml_phase4/models/classical_hist_gradient_boosting.joblib,31.3506,,,,,,,,
+classical_candidate_pool_stage2,classical_random_forest,21.99697960699996,0.3548179120007262,328727.0,88786,111329,/kaggle/working/aml_phase4/models/classical_random_forest.joblib,31.3506,,,,,,,,
+reduced_quantum_compatible_classical,reduced_logistic_regression,1.9113240389997368,0.0007685780001338,,800,1000,/kaggle/working/aml_phase4/models/reduced_logistic_regression.joblib,31.3506,1600.0,,,,,,,
+reduced_quantum_compatible_classical,reduced_svm_rbf,0.3920395910008665,0.0448971500009065,,800,1000,/kaggle/working/aml_phase4/models/reduced_svm_rbf.joblib,31.3506,1600.0,,,,,,,
+reduced_quantum_compatible_classical,reduced_mlp,0.1266349399993487,0.0004141030003665,,800,1000,/kaggle/working/aml_phase4/models/reduced_mlp.joblib,31.3506,1600.0,,,,,,,
+quantum_statevector_reduced_features,quantum_kernel_svc_statevector,0.0457246370006032,,,800,1000,,31.3506,1600.0,0.4327505600012955,0.0878188999995472,,,,,
+quantum_statevector_reduced_features,variational_quantum_classifier_statevector,7.970479923000312,,,800,1000,,31.3506,,0.4327505600012955,,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,0.0313474034699432,600.0,1600.0

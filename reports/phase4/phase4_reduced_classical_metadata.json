@@ -1,0 +1,9 @@
+{
+  "models": [
+    "reduced_logistic_regression",
+    "reduced_svm_rbf",
+    "reduced_mlp"
+  ],
+  "recall_target": 0.8,
+  "note": "These models use the exact same reduced PCA/angle-scaled feature space as the quantum models for fair comparison."
+}

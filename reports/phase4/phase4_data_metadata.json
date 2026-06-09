@@ -1,0 +1,134 @@
+{
+  "candidate_sample_path": "/kaggle/working/aml_phase4/data/phase4_candidate_sample.parquet",
+  "candidate_rows": 528842,
+  "candidate_counts": [
+    {
+      "_split": "test",
+      "_label": 0,
+      "n": 30876
+    },
+    {
+      "_split": "test",
+      "_label": 1,
+      "n": 80453
+    },
+    {
+      "_split": "train",
+      "_label": 0,
+      "n": 142965
+    },
+    {
+      "_split": "train",
+      "_label": 1,
+      "n": 185762
+    },
+    {
+      "_split": "valid",
+      "_label": 0,
+      "n": 31994
+    },
+    {
+      "_split": "valid",
+      "_label": 1,
+      "n": 56792
+    }
+  ],
+  "candidate_manifest": {
+    "candidate_pool_type": "Phase 3B high-recall supervised screening candidate pool",
+    "selected_target_candidate_pct": "0.1",
+    "threshold": 0.7876329609654898,
+    "selection_policy": "auto selects smallest validation candidate percentage with fraud retention >= min_valid_recall; otherwise best available recall",
+    "min_valid_recall": 0.8,
+    "negative_sample_fraction_inside_flagged_pool": 0.005,
+    "positive_policy": "all flagged positives retained",
+    "features": [
+      "amount_received_num",
+      "amount_paid_num",
+      "amount_delta_num",
+      "amount_ratio_num",
+      "log_amount_received_num",
+      "log_amount_paid_num",
+      "hour_num",
+      "day_num",
+      "same_currency_num",
+      "receiving_currency",
+      "payment_currency",
+      "payment_format"
+    ],
+    "candidate_dir": "/kaggle/working/aml_phase3b/data/stage1b_candidate_pool_sample",
+    "parts_written": 5215,
+    "kept_rows": 528842,
+    "seen_rows": 430920901,
+    "counts": [
+      {
+        "_split": "test",
+        "_label": 0,
+        "n": 30876
+      },
+      {
+        "_split": "test",
+        "_label": 1,
+        "n": 80453
+      },
+      {
+        "_split": "train",
+        "_label": 0,
+        "n": 142965
+      },
+      {
+        "_split": "train",
+        "_label": 1,
+        "n": 185762
+      },
+      {
+        "_split": "valid",
+        "_label": 0,
+        "n": 31994
+      },
+      {
+        "_split": "valid",
+        "_label": 1,
+        "n": 56792
+      }
+    ],
+    "runtime_seconds": 1146.6549357449994
+  },
+  "negative_sampling_fraction": 0.005,
+  "sample_weight_rule": "positive=1; negative=1/negative_sampling_fraction",
+  "quantum_dataset_path": "/kaggle/working/aml_phase4/data/phase4_quantum_dataset_4q.npz",
+  "n_qubits": 4,
+  "quantum_subset_rows": 3400,
+  "quantum_subset_counts": [
+    {
+      "_split": "test",
+      "_label": 0,
+      "n": 500
+    },
+    {
+      "_split": "test",
+      "_label": 1,
+      "n": 500
+    },
+    {
+      "_split": "train",
+      "_label": 0,
+      "n": 800
+    },
+    {
+      "_split": "train",
+      "_label": 1,
+      "n": 800
+    },
+    {
+      "_split": "valid",
+      "_label": 0,
+      "n": 400
+    },
+    {
+      "_split": "valid",
+      "_label": 1,
+      "n": 400
+    }
+  ],
+  "quantum_feature_method": "numeric/categorical preprocessing -> PCA -> angle scaling to [-pi, pi]"
+}
