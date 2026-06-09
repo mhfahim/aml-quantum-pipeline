@@ -1,0 +1,15 @@
+column,null_count,null_pct
+timestamp,0,0.0
+from_bank,0,0.0
+account,0,0.0
+to_bank,0,0.0
+account_duplicated_0,0,0.0
+amount_received,0,0.0
+receiving_currency,0,0.0
+amount_paid,0,0.0
+payment_currency,0,0.0
+payment_format,0,0.0
+is_laundering,0,0.0
+_source_file,0,0.0
+_ts,0,0.0
+_label,0,0.0

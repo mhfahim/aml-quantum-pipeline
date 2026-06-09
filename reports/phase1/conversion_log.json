@@ -1,0 +1,68 @@
+[
+  {
+    "file": "HI-Large_Trans.csv",
+    "status": "success",
+    "rows_written": 179702229,
+    "parts_written": 2794
+  },
+  {
+    "file": "HI-Large_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in HI-Large_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  },
+  {
+    "file": "HI-Medium_Trans.csv",
+    "status": "success",
+    "rows_written": 31898238,
+    "parts_written": 181
+  },
+  {
+    "file": "HI-Medium_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in HI-Medium_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  },
+  {
+    "file": "HI-Small_Trans.csv",
+    "status": "success",
+    "rows_written": 5078345,
+    "parts_written": 65
+  },
+  {
+    "file": "HI-Small_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in HI-Small_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  },
+  {
+    "file": "LI-Large_Trans.csv",
+    "status": "success",
+    "rows_written": 176066557,
+    "parts_written": 1934
+  },
+  {
+    "file": "LI-Large_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in LI-Large_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  },
+  {
+    "file": "LI-Medium_Trans.csv",
+    "status": "success",
+    "rows_written": 31251483,
+    "parts_written": 178
+  },
+  {
+    "file": "LI-Medium_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in LI-Medium_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  },
+  {
+    "file": "LI-Small_Trans.csv",
+    "status": "success",
+    "rows_written": 6924049,
+    "parts_written": 65
+  },
+  {
+    "file": "LI-Small_accounts.csv",
+    "status": "failed",
+    "error": "No timestamp column found in LI-Small_accounts.csv. Columns: ['bank_name', 'bank_id', 'account_number', 'entity_id', 'entity_name']"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "n_csv_files": 12,
+  "total_csv_size_gb": 38.7334,
+  "files": [
+    {
+      "file_name": "HI-Large_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Large_Trans.csv",
+      "size_gb": 15.8816,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "HI-Large_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Large_accounts.csv",
+      "size_gb": 0.1375,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    },
+    {
+      "file_name": "HI-Medium_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Medium_Trans.csv",
+      "size_gb": 2.8236,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "HI-Medium_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Medium_accounts.csv",
+      "size_gb": 0.135,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    },
+    {
+      "file_name": "HI-Small_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Small_Trans.csv",
+      "size_gb": 0.443,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "HI-Small_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/HI-Small_accounts.csv",
+      "size_gb": 0.0317,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Large_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Large_Trans.csv",
+      "size_gb": 15.5927,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Large_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Large_accounts.csv",
+      "size_gb": 0.1344,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Medium_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Medium_Trans.csv",
+      "size_gb": 2.772,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Medium_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Medium_accounts.csv",
+      "size_gb": 0.132,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Small_Trans.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Small_Trans.csv",
+      "size_gb": 0.6058,
+      "n_columns": 11,
+      "columns": "timestamp, from_bank, account, to_bank, account_duplicated_0, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",
+      "status": "success"
+    },
+    {
+      "file_name": "LI-Small_accounts.csv",
+      "path": "/kaggle/input/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/LI-Small_accounts.csv",
+      "size_gb": 0.044,
+      "n_columns": 5,
+      "columns": "bank_name, bank_id, account_number, entity_id, entity_name",
+      "status": "success"
+    }
+  ]
+}

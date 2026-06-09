@@ -1,0 +1,63 @@
+{
+  "split_type": "temporal",
+  "train_ratio": 0.7,
+  "valid_ratio": 0.15,
+  "test_ratio": 0.15,
+  "train_cutoff_raw_microseconds": 1664546760000000,
+  "valid_cutoff_raw_microseconds": 1666203840000000,
+  "train_cutoff_datetime": "2022-09-30T14:06:00",
+  "valid_cutoff_datetime": "2022-10-19T18:24:00",
+  "split_counts": [
+    {
+      "_split": "test",
+      "_label": 0,
+      "n": 64547333
+    },
+    {
+      "_split": "test",
+      "_label": 1,
+      "n": 90105
+    },
+    {
+      "_split": "train",
+      "_label": 0,
+      "n": 301417307
+    },
+    {
+      "_split": "train",
+      "_label": 1,
+      "n": 229094
+    },
+    {
+      "_split": "valid",
+      "_label": 0,
+      "n": 64570098
+    },
+    {
+      "_split": "valid",
+      "_label": 1,
+      "n": 66964
+    }
+  ],
+  "split_ranges": [
+    {
+      "_split": "test",
+      "n": 64637438,
+      "min_timestamp": "2022-10-19 18:25:00",
+      "max_timestamp": "2023-01-12 16:49:00"
+    },
+    {
+      "_split": "train",
+      "n": 301646401,
+      "min_timestamp": "2022-08-01 00:00:00",
+      "max_timestamp": "2022-09-30 14:06:00"
+    },
+    {
+      "_split": "valid",
+      "n": 64637062,
+      "min_timestamp": "2022-09-30 14:07:00",
+      "max_timestamp": "2022-10-19 18:24:00"
+    }
+  ],
+  "note": "Data is not physically duplicated. Future scripts should apply these timestamp cutoffs to create train/valid/test views."
+}

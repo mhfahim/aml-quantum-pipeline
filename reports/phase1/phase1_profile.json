@@ -1,0 +1,61 @@
+{
+  "total_rows": 430920901,
+  "columns": [
+    "timestamp",
+    "from_bank",
+    "account",
+    "to_bank",
+    "account_duplicated_0",
+    "amount_received",
+    "receiving_currency",
+    "amount_paid",
+    "payment_currency",
+    "payment_format",
+    "is_laundering",
+    "_source_file",
+    "_ts",
+    "_label"
+  ],
+  "n_columns": 14,
+  "label_counts": [
+    {
+      "_label": 0,
+      "n": 430534738,
+      "pct": 99.91038656999373
+    },
+    {
+      "_label": 1,
+      "n": 386163,
+      "pct": 0.08961343000626465
+    }
+  ],
+  "time_range": {
+    "min_timestamp": "2022-08-01 00:00:00",
+    "max_timestamp": "2023-01-12 16:49:00"
+  },
+  "transaction_type_column": "payment_format",
+  "sender_receiver_fields": {
+    "possible_sender_fields": [
+      "from_bank",
+      "account"
+    ],
+    "possible_receiver_fields": [
+      "to_bank",
+      "account_duplicated_0"
+    ],
+    "possible_bank_fields": [
+      "from_bank",
+      "to_bank"
+    ],
+    "possible_account_fields": [
+      "account",
+      "account_duplicated_0"
+    ]
+  },
+  "duplicate_stats": {
+    "duplicate_check": "skipped"
+  },
+  "raw_size_gb": 38.751,
+  "parquet_size_gb": 8.88,
+  "available_ram_gb": 31.3506
+}
