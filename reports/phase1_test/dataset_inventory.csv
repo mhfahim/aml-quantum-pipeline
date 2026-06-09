@@ -1,2 +1,0 @@
-file_name,path,size_gb,n_columns,columns,status
-sample.csv,data\raw\sample\sample.csv,0.0,11,"timestamp, from_bank, account, to_bank, account_1, amount_received, receiving_currency, amount_paid, payment_currency, payment_format, is_laundering",success

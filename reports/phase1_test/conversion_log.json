@@ -1,8 +1,0 @@
-[
-  {
-    "file": "sample.csv",
-    "status": "success",
-    "rows_written": 5,
-    "parts_written": 1
-  }
-]
