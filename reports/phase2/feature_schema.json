@@ -1,0 +1,21 @@
+{
+  "blocked_columns": [
+    "is_laundering",
+    "_label",
+    "from_bank",
+    "account",
+    "to_bank",
+    "account_duplicated_0",
+    "amount_paid",
+    "_source_file"
+  ],
+  "safe_starter_feature_candidates": [
+    "amount_received",
+    "receiving_currency",
+    "payment_currency",
+    "payment_format"
+  ],
+  "label": "_label",
+  "timestamp": "_ts",
+  "split": "_split"
+}

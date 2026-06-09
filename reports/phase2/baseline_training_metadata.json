@@ -1,0 +1,61 @@
+{
+  "sample_manifest": {
+    "sample_type": "all positives plus deterministic hash-sampled negatives",
+    "negative_fraction": 0.01,
+    "safe_features": [
+      "amount_received",
+      "receiving_currency",
+      "payment_currency",
+      "payment_format"
+    ],
+    "output_file": "/kaggle/working/aml_phase2/data/baseline_sample.parquet",
+    "counts": [
+      {
+        "_split": "test",
+        "_label": 0,
+        "n": 645209
+      },
+      {
+        "_split": "test",
+        "_label": 1,
+        "n": 90105
+      },
+      {
+        "_split": "train",
+        "_label": 0,
+        "n": 3012002
+      },
+      {
+        "_split": "train",
+        "_label": 1,
+        "n": 229094
+      },
+      {
+        "_split": "valid",
+        "_label": 0,
+        "n": 645260
+      },
+      {
+        "_split": "valid",
+        "_label": 1,
+        "n": 66964
+      }
+    ]
+  },
+  "numeric_features_used": [
+    "amount_received_num"
+  ],
+  "train_shape": [
+    3241096,
+    1
+  ],
+  "valid_shape": [
+    712224,
+    1
+  ],
+  "test_shape": [
+    735314,
+    1
+  ],
+  "note": "Amount columns were cast from string to numeric inside the training script."
+}

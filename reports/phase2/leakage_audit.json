@@ -1,0 +1,69 @@
+{
+  "status": "completed_lightweight",
+  "reason_for_lightweight_mode": "Full Parquet scan caused Kaggle memory restart. This audit uses Phase 1 profile outputs instead.",
+  "n_columns": 14,
+  "columns": [
+    "timestamp",
+    "from_bank",
+    "account",
+    "to_bank",
+    "account_duplicated_0",
+    "amount_received",
+    "receiving_currency",
+    "amount_paid",
+    "payment_currency",
+    "payment_format",
+    "is_laundering",
+    "_source_file",
+    "_ts",
+    "_label"
+  ],
+  "suspicious_label_like_columns": [
+    "is_laundering",
+    "_label"
+  ],
+  "blocked_identifier_columns": [
+    "from_bank",
+    "account",
+    "to_bank",
+    "account_duplicated_0",
+    "amount_paid",
+    "_source_file"
+  ],
+  "safe_starter_feature_candidates": [
+    "amount_received",
+    "receiving_currency",
+    "payment_currency",
+    "payment_format"
+  ],
+  "label_column_used": "_label",
+  "timestamp_column_used": "_ts",
+  "temporal_split": {
+    "train_cutoff_raw_microseconds": 1664546760000000,
+    "valid_cutoff_raw_microseconds": 1666203840000000,
+    "source": "phase1 temporal_split_manifest.json"
+  },
+  "phase1_total_rows": 430920901,
+  "phase1_label_counts": [
+    {
+      "_label": 0,
+      "n": 430534738,
+      "pct": 99.91038656999373
+    },
+    {
+      "_label": 1,
+      "n": 386163,
+      "pct": 0.08961343000626465
+    }
+  ],
+  "phase1_time_range": {
+    "min_timestamp": "2022-08-01 00:00:00",
+    "max_timestamp": "2023-01-12 16:49:00"
+  },
+  "important_interpretation": [
+    "Label-like columns are blocked from feature use.",
+    "Raw account, bank, entity, and source identifiers are blocked from starter baselines.",
+    "Temporal split is inherited from Phase 1.",
+    "This is a conservative leakage-safe starter setup, not the final feature engineering audit."
+  ]
+}
