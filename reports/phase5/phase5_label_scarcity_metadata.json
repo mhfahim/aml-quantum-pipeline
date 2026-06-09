@@ -1,0 +1,18 @@
+{
+  "experiment": "label_scarcity",
+  "fractions": [
+    0.1,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "repeats": 3,
+  "recall_target": 0.8,
+  "models": [
+    "quantum_kernel_svc_statevector",
+    "reduced_logistic_regression",
+    "reduced_mlp",
+    "reduced_svm_rbf"
+  ],
+  "available_ram_gb": 31.3506
+}

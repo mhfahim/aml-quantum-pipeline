@@ -1,0 +1,4 @@
+component,test_total_rows,test_candidate_rows,actual_candidate_pct,transactions_removed_before_stage2_pct,fraud_retention,stage2_workload_reduction_factor,interpretation,n_qubits,statevector_dimension,estimated_circuit_depth,shots,hardware_queue_time_seconds,hardware_execution_time_seconds
+phase3b_stage1_screening,64637438.0,6267663.0,0.0969664515477856,0.9030335484522144,0.8928805282725709,10.312845154565585,Stage 1 reduces the transaction universe before expensive Stage 2 classical/quantum analysis.,,,,,,
+quantum_kernel_svc_statevector,,,,,,,Hardware queue and execution cost will be measured in Phase 6.,4.0,16.0,,statevector_exact,Phase 6 only,Phase 6 only
+variational_quantum_classifier_statevector,,,,,,,Hardware queue and execution cost will be measured in Phase 6.,4.0,16.0,19.0,statevector_exact,Phase 6 only,Phase 6 only

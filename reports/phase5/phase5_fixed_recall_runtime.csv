@@ -1,0 +1,4 @@
+model,training_time_seconds,training_note,valid_inference_time_seconds,test_inference_time_seconds,test_rows,test_rows_per_second
+classical_logistic_regression,0.0,loaded_existing_phase4_model,0.22976222000033886,0.2691817999984778,111329,413582.9391163502
+classical_hist_gradient_boosting,0.0,loaded_existing_phase4_model,0.447142745999372,0.48105848299928766,111329,231425.0843387889
+classical_random_forest,0.0,loaded_existing_phase4_model,0.5778984799999307,0.48794804199860664,111329,228157.48894903425

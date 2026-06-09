@@ -1,0 +1,15 @@
+{
+  "experiment": "fixed_recall_false_positive_tradeoff",
+  "recall_targets": [
+    0.8,
+    0.9,
+    0.95
+  ],
+  "stage1b_target_candidate_pct": 0.1,
+  "models": [
+    "classical_logistic_regression",
+    "classical_hist_gradient_boosting",
+    "classical_random_forest"
+  ],
+  "note": "Thresholds are selected on validation data to hit target recall; test performance is reported."
+}

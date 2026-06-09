@@ -1,0 +1,8 @@
+{
+  "experiment": "novel_pattern_stress_test",
+  "selected_novel_typology": "ACH__same_currency__medium",
+  "train_policy": "selected proxy typology excluded from train and validation",
+  "test_policy": "models evaluated separately on novel typology and seen typologies",
+  "recall_target": 0.8,
+  "proxy_typology_definition": "payment_format + currency_pattern + amount_bin"
+}

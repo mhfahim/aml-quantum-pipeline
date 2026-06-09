@@ -1,0 +1,4 @@
+model,training_time_seconds,train_rows,valid_rows,test_novel_rows,test_seen_rows
+novel_logistic_regression,4.177723826000147,230110,60515,42793,68536
+novel_hist_gradient_boosting,5.720005987001059,230110,60515,42793,68536
+novel_random_forest,13.60380332099885,230110,60515,42793,68536

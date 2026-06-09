@@ -1,0 +1,5 @@
+proxy_typology,n,positives,negatives
+ACH__same_currency__medium,42793,37966,4827
+ACH__same_currency__low,46941,27737,19204
+ACH__same_currency__high,15557,10315,5242
+ACH__same_currency__extreme,6036,4435,1601

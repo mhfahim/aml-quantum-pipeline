@@ -1,0 +1,8 @@
+{
+  "experiment": "scalability_cost_summary",
+  "phase3b_test_actual_candidate_pct": 0.0969664515477856,
+  "phase3b_test_fraud_retention": 0.8928805282725709,
+  "stage2_workload_reduction_factor": 10.312845154565585,
+  "transactions_removed_before_stage2_pct": 0.9030335484522144,
+  "phase6_note": "IBM queue time, hardware execution time, and direct hardware-cost evidence will be added in Phase 6."
+}
