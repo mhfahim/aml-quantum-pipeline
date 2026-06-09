@@ -1,0 +1,23 @@
+{
+  "project_name": "aml-quantum-pipeline",
+  "phase": "phase1_full_dataset_processing",
+  "train_ratio": 0.70,
+  "valid_ratio": 0.15,
+  "test_ratio": 0.15,
+  "split_type": "temporal",
+  "label_candidates": [
+    "is_laundering",
+    "laundering",
+    "is_fraud",
+    "fraud",
+    "label",
+    "target"
+  ],
+  "timestamp_candidates": [
+    "timestamp",
+    "time",
+    "datetime",
+    "date",
+    "transaction_time"
+  ]
+}
