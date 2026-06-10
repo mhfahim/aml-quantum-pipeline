@@ -1,0 +1,46 @@
+{
+  "mode": "ibm_hardware",
+  "connected_channel": "ibm_quantum_platform",
+  "backend_name": "ibm_kingston",
+  "job_id": "d8kpcsjnn5bs738r5otg",
+  "shots": 256,
+  "n_qubits": 4,
+  "train_per_class": 5,
+  "valid_per_class": 5,
+  "test_per_class": 5,
+  "train_rows": 10,
+  "valid_rows": 10,
+  "test_rows": 10,
+  "total_submitted_circuits": 275,
+  "kernel_circuits": 255,
+  "vqc_circuits": 20,
+  "transpile_time_seconds": 13.313846970999293,
+  "submit_overhead_seconds": 2.9621861799996623,
+  "wait_for_result_time_seconds": 32.80098794300011,
+  "total_turnaround_time_seconds": 35.76322795299984,
+  "job_payload": {
+    "job_id": "d8kpcsjnn5bs738r5otg",
+    "status": "DONE",
+    "metrics": {
+      "caller": "qiskit_ibm_runtime~sampler.py",
+      "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.4.1*",
+      "timestamps": {
+        "created": "2026-06-10T16:53:07.033137Z",
+        "finished": "2026-06-10T16:53:38.896025Z",
+        "running": "2026-06-10T16:53:08.342798Z"
+      },
+      "bss": {
+        "seconds": 21
+      },
+      "usage": {
+        "quantum_seconds": 21,
+        "seconds": 21,
+        "status": "complete"
+      }
+    },
+    "usage_estimation": {
+      "quantum_seconds": 26.853827267
+    }
+  },
+  "note": "This run validates Isolation Forest + Quantum Kernel SVC and Isolation Forest + VQC on real IBM Quantum hardware using a small balanced Phase 7 subset."
+}

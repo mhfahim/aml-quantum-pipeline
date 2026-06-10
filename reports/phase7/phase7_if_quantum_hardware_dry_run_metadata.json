@@ -1,0 +1,13 @@
+{
+  "mode": "dry_run",
+  "n_circuits": 275,
+  "n_qubits": 4,
+  "shots": 256,
+  "train_rows": 10,
+  "valid_rows": 10,
+  "test_rows": 10,
+  "train_per_class": 5,
+  "valid_per_class": 5,
+  "test_per_class": 5,
+  "note": "No IBM hardware job submitted."
+}
