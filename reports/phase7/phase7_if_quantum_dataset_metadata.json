@@ -1,0 +1,28 @@
+{
+  "dataset_path": "/kaggle/working/aml_phase7/data/phase7_if_quantum_dataset_4q.npz",
+  "source": "Directly sampled from Kaggle AML transaction CSVs after session reset.",
+  "stage1_model": "Isolation Forest",
+  "stage2_models_planned": [
+    "Quantum Kernel SVC Statevector",
+    "VQC Statevector"
+  ],
+  "rows_seen": 9900000,
+  "chunks_seen": 33,
+  "if_train_normal_rows": 50000,
+  "normal_pool_rows": 8000,
+  "fraud_pool_rows": 8000,
+  "selected_rows": 1100,
+  "n_qubits": 4,
+  "feature_cols": [
+    "amount_received_num",
+    "amount_paid_num",
+    "amount_delta_num",
+    "amount_ratio_num",
+    "log_amount_received_num",
+    "log_amount_paid_num",
+    "hour_num",
+    "day_num",
+    "same_currency_num"
+  ],
+  "note": "This Phase 7 dataset uses an Isolation Forest-ranked candidate subset, followed by a balanced train/valid/test quantum-compatible split."
+}

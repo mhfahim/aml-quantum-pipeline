@@ -1,0 +1,4 @@
+model,model,accuracy,f1_score,precision,recall,pr_auc,roc_auc,fpr,fnr,tn,fp,fn,tp,confusion_matrix,threshold,n_rows
+Phase3B Screener + Random Forest,phase3b_screener_plus_classical_random_forest,0.967982,0.060939,0.031776,0.740924,,,0.031521,0.259076,62501123.0,2034200.0,23344.0,66761.0,"TN=62501123, FP=2034200, FN=23344, TP=66761",0.005592,64637438.0
+Phase3B Screener + HistGradientBoosting,phase3b_screener_plus_classical_hist_gradient_boosting,0.966385,0.057858,0.030112,0.73633,,,0.033114,0.26367,62398323.0,2137000.0,23758.0,66347.0,"TN=62398323, FP=2137000, FN=23758, TP=66347",0.004959,64637438.0
+Phase3B Screener + Logistic Regression,phase3b_screener_plus_classical_logistic_regression,0.946608,0.038037,0.01951,0.754597,,,0.052948,0.245403,61118323.0,3417000.0,22112.0,67993.0,"TN=61118323, FP=3417000, FN=22112, TP=67993",0.00428,64637438.0

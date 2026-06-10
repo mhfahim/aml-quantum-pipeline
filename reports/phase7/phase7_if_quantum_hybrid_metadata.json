@@ -1,0 +1,12 @@
+{
+  "dataset": "/kaggle/working/aml_phase7/data/phase7_if_quantum_dataset_4q.npz",
+  "n_qubits": 4,
+  "stage1_model": "Isolation Forest",
+  "stage2_models": [
+    "Quantum Kernel SVC Statevector",
+    "VQC Statevector"
+  ],
+  "layers": 2,
+  "maxiter": 80,
+  "note": "Hybrid quantum models are evaluated on an Isolation Forest-ranked candidate subset prepared in Phase 7."
+}
