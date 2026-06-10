@@ -1,0 +1,7 @@
+{
+  "n_samples": 80,
+  "mean_absolute_score_difference": 0.0018181603925227642,
+  "median_absolute_score_difference": 0.0018312052382313082,
+  "prediction_agreement_rate": 0.9625,
+  "threshold": 0.004931297038199307
+}

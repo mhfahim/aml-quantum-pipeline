@@ -1,0 +1,9 @@
+{
+  "mode": "dry_run",
+  "message": "No IBM hardware job submitted.",
+  "circuits_prepared": 80,
+  "shots": 1024,
+  "max_test_per_class": 40,
+  "n_qubits": 4,
+  "threshold": 0.004931297038199307
+}

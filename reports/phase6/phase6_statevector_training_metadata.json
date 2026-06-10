@@ -1,0 +1,16 @@
+{
+  "model": "phase6_vqc_statevector",
+  "n_qubits": 4,
+  "layers": 2,
+  "train_rows": 500,
+  "valid_rows": 300,
+  "test_rows": 200,
+  "feature_state_time_seconds": 0.12588919900008477,
+  "training_time_seconds": 10.161038201000338,
+  "optimizer_success": false,
+  "optimizer_message": "Return from COBYLA because the objective function has been evaluated MAXFUN times.",
+  "optimizer_final_loss": 0.03134558419174267,
+  "trainable_parameters": 10,
+  "estimated_statevector_dimension": 16,
+  "available_ram_gb": 31.3506
+}

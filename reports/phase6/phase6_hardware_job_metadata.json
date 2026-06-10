@@ -1,0 +1,39 @@
+{
+  "mode": "ibm_hardware",
+  "connected_channel": "ibm_quantum_platform",
+  "backend_name": "ibm_kingston",
+  "job_id": "d8kaffrqv2lc73851sog",
+  "shots": 1024,
+  "n_circuits": 80,
+  "n_qubits": 4,
+  "optimization_level": 1,
+  "submit_overhead_seconds": 2.447833760001231,
+  "transpile_time_seconds": 6.320522669999264,
+  "wait_for_result_time_seconds": 31.04764909899859,
+  "total_turnaround_time_seconds": 33.49553696200019,
+  "job_payload": {
+    "job_id": "d8kaffrqv2lc73851sog",
+    "status": "DONE",
+    "metrics": {
+      "caller": "qiskit_ibm_runtime~sampler.py",
+      "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.4.1*",
+      "timestamps": {
+        "created": "2026-06-09T23:54:39.993692Z",
+        "finished": "2026-06-09T23:55:10.369867Z",
+        "running": "2026-06-09T23:54:41.116488Z"
+      },
+      "bss": {
+        "seconds": 24
+      },
+      "usage": {
+        "quantum_seconds": 24,
+        "seconds": 24,
+        "status": "complete"
+      }
+    },
+    "usage_estimation": {
+      "quantum_seconds": null
+    }
+  },
+  "note": "Queue/execution details are recorded where available from IBM Runtime job metadata. Total turnaround is measured locally from submission to result retrieval."
+}

@@ -1,0 +1,42 @@
+{
+  "phase6_subset_path": "/kaggle/working/aml_phase6/data/phase6_hardware_subset_4q.npz",
+  "n_qubits": 4,
+  "total_rows": 1000,
+  "counts": [
+    {
+      "split": "train",
+      "label": 0,
+      "n": 250
+    },
+    {
+      "split": "train",
+      "label": 1,
+      "n": 250
+    },
+    {
+      "split": "valid",
+      "label": 0,
+      "n": 150
+    },
+    {
+      "split": "valid",
+      "label": 1,
+      "n": 150
+    },
+    {
+      "split": "test",
+      "label": 0,
+      "n": 100
+    },
+    {
+      "split": "test",
+      "label": 1,
+      "n": 100
+    }
+  ],
+  "train_per_class": 250,
+  "valid_per_class": 150,
+  "test_per_class": 100,
+  "random_state": 42,
+  "purpose": "Fixed small balanced subset for IBM Quantum hardware validation."
+}

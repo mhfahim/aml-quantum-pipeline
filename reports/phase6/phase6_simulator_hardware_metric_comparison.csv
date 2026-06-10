@@ -1,0 +1,3 @@
+track,model,split,threshold,accuracy,precision,recall,f1,fpr,fnr,tn,fp,fn,tp,n_rows
+phase6_simulator_reference_on_hardware_subset,phase6_vqc_statevector_on_hardware_subset,hardware_test_subset,0.004931297038199307,0.004601990049751244,0.004603707851188255,0.925,0.009161817506499938,1.0,0.075,0.0,8000.0,3.0,37.0,80
+phase6_ibm_hardware_validation,phase6_vqc_ibm_hardware,hardware_test_subset,0.004931297038199307,0.004975124378109453,0.004975124378109453,1.0,0.009900990099009901,1.0,0.0,0.0,8000.0,0.0,40.0,80
