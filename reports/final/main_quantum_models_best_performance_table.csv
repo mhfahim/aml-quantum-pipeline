@@ -1,0 +1,4 @@
+model,model,accuracy,f1_score,precision,recall,pr_auc,roc_auc,fpr,fnr,tn,fp,fn,tp,confusion_matrix,threshold,n_rows
+Quantum Kernel SVC,quantum_kernel_svc_statevector,0.099254,0.010385,0.005221,0.95,0.004948,0.510194,0.905,0.05,7600.0,72400.0,20.0,380.0,"TN=7600, FP=72400, FN=20, TP=380",-1.000254,800.0
+VQC Statevector,variational_quantum_classifier_statevector,0.0149,0.00995,0.005,0.995,0.007783,0.497811,0.99,0.005,1600.0,158400.0,4.0,796.0,"TN=1600, FP=158400, FN=4, TP=796",0.004967,1600.0
+VQC IBM Hardware,phase6_vqc_ibm_hardware,0.004975,0.009901,0.004975,1.0,,,1.0,0.0,0.0,8000.0,0.0,40.0,"TN=0, FP=8000, FN=0, TP=40",0.004931,80.0
