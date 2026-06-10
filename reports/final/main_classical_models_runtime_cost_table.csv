@@ -1,0 +1,6 @@
+model,training_time_seconds,validation_inference_time_seconds,test_inference_time_seconds,other_inference_time_seconds,total_runtime_seconds,inference_rows_per_second,train_rows,test_rows,available_ram_gb,compute_cost_type,source_file
+Logistic Regression,0.0,0.229762,0.269182,0.000302,0.000302,3310414.23197,1600.0,111329.0,31.3506,Classical CPU/GPU runtime cost only; no IBM quantum hardware cost,reports\phase5\phase5_scalability_runtime_summary.csv
+MLP,0.126635,0.000414,,0.000432,0.000432,2316573.701604,1600.0,1000.0,31.3506,Classical CPU/GPU runtime cost only; no IBM quantum hardware cost,reports\phase5\phase5_scalability_runtime_summary.csv
+SVM,0.39204,0.044897,,0.057069,0.057069,17522.517837,1600.0,1000.0,31.3506,Classical CPU/GPU runtime cost only; no IBM quantum hardware cost,reports\phase5\phase5_scalability_runtime_summary.csv
+HistGradientBoosting,0.0,0.447143,0.481058,0.411618,0.411618,270466.533793,328727.0,111329.0,31.3506,Classical CPU/GPU runtime cost only; no IBM quantum hardware cost,reports\phase5\phase5_scalability_runtime_summary.csv
+Random Forest,0.0,0.577898,0.487948,0.477472,0.477472,233163.35203,230110.0,111329.0,31.3506,Classical CPU/GPU runtime cost only; no IBM quantum hardware cost,reports\phase5\phase5_scalability_runtime_summary.csv
