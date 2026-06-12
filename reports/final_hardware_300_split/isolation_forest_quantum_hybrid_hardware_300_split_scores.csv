@@ -1,0 +1,601 @@
+model,sample_index,original_dataset_index,label,score,threshold,prediction
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",0,379,0,-1.070216049382716,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",1,237,1,0.9296875,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",2,742,0,0.863184799382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",3,527,0,-1.0886863425925928,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",4,644,0,-1.1317033179012346,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",5,945,1,0.836082175925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",6,438,1,0.876880787037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",7,579,0,-1.119116512345679,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",8,922,1,0.8250385802469136,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",9,352,1,0.9442515432098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",10,624,0,-1.0526138117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",11,542,0,-1.1062885802469136,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",12,146,1,0.820216049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",13,585,0,-1.1267843364197532,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",14,143,0,0.87890625,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",15,233,1,0.9669174382716048,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",16,556,0,-1.0907600308641976,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",17,196,0,-1.1532118055555556,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",18,418,0,-1.0573881172839508,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",19,560,1,0.9344135802469136,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",20,1005,0,0.8428337191358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",21,117,1,0.8181905864197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",22,250,0,0.826147762345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",23,381,1,0.7566550925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",24,809,0,-1.1591917438271606,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",25,456,0,0.8838252314814814,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",26,795,1,0.921826774691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",27,21,0,0.9470968364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",28,150,1,0.8651138117283952,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",29,581,1,0.874855324074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",30,230,0,-1.1161747685185184,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",31,1026,0,0.7908468364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",32,398,0,0.8700327932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",33,634,1,0.8848861882716048,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",34,58,0,0.8465952932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",35,406,1,0.8953510802469136,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",36,745,0,-1.1063368055555556,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",37,33,0,-1.1297743055555558,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",38,704,0,0.816358024691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",39,298,1,0.8679591049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",40,944,1,0.9129050925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",41,113,0,0.9072627314814814,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",42,1043,1,0.904272762345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",43,175,1,0.8680555555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",44,278,0,-1.1092785493827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",45,891,1,0.894579475308642,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",46,276,0,-1.089747299382716,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",47,1021,0,-1.0924961419753088,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",48,488,0,-1.1288097993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",49,673,1,0.916039737654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",50,178,1,0.8837287808641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",51,66,0,-1.1209490740740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",52,394,1,0.9561149691358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",53,191,0,0.8444733796296298,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",54,10,1,0.8268711419753085,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",55,415,0,-1.1091820987654322,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",56,442,1,0.8025173611111112,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",57,257,1,0.958960262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",58,763,1,0.9110725308641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",59,921,0,-1.1513310185185186,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",60,800,0,-1.1443865740740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",61,348,1,0.9072145061728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",62,701,1,0.892554012345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",63,933,1,0.8924093364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",64,603,1,0.8972800925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",65,781,1,1.0020736882716048,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",66,145,1,0.8641975308641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",67,19,0,-1.1493055555555558,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",68,632,1,-1.1170428240740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",69,37,0,-1.1004050925925926,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",70,529,1,0.9188850308641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",71,392,0,0.9265528549382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",72,816,1,0.9580922067901234,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",73,630,1,0.8435570987654322,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",74,901,1,0.9365837191358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",75,759,1,0.8366608796296298,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",76,1097,1,0.8943383487654322,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",77,903,0,0.8337673611111112,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",78,282,1,0.8651138117283952,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",79,472,1,0.8934220679012346,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",80,851,0,-1.1385995370370372,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",81,202,1,0.8153452932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",82,511,1,0.7978877314814814,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",83,965,0,-1.105420524691358,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",84,765,1,0.8835358796296298,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",85,29,0,-1.0720486111111112,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",86,491,1,0.8533468364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",87,347,0,-1.1122202932098766,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",88,485,1,0.904272762345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",89,692,1,0.863136574074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",90,902,0,-1.1288097993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",91,461,0,-1.0819347993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",92,154,0,-1.1062403549382718,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",93,409,1,0.923755787037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",94,934,1,0.9169560185185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",95,1074,1,0.916039737654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",96,1078,0,0.9216820987654322,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",97,1072,1,0.812355324074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",98,569,1,0.9216338734567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",99,27,1,0.8544560185185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",100,999,1,-1.1277006172839503,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",101,839,0,-1.0232445987654322,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",102,60,0,0.8005401234567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",103,156,0,0.8212770061728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",104,550,1,0.890625,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",105,572,1,0.8611111111111112,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",106,414,1,0.8288001543209877,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",107,564,1,0.831983024691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",108,574,0,-1.1160783179012346,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",109,602,1,0.874951774691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",110,116,0,0.8564814814814814,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",111,124,0,-1.136670524691358,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",112,865,1,0.8387827932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",113,657,0,0.8486207561728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",114,1076,1,0.9288676697530864,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",115,336,1,0.8602430555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",116,739,1,0.8700327932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",117,234,0,-1.1013213734567902,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",118,588,0,0.876880787037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",119,703,1,0.9041280864197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",120,813,1,-1.0916763117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",121,597,0,-1.1209972993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",122,753,1,0.9582851080246916,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",123,587,1,0.888647762345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",124,855,1,0.85546875,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",125,142,0,0.922019675925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",126,995,1,0.8720100308641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",127,449,0,0.872974537037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",128,426,1,0.8545042438271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",129,176,1,0.8229648919753085,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",130,319,0,-1.0876736111111112,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",131,947,1,0.804542824074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",132,30,1,0.8896122685185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",133,866,0,0.9404417438271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",134,688,1,0.9306520061728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",135,711,1,0.921875,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",136,873,0,-1.1112075617283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",137,937,0,0.9636863425925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",138,493,1,0.865210262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",139,390,1,0.941261574074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",140,1098,1,0.8836805555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",141,24,1,0.914014274691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",142,640,0,-1.095582561728395,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",143,218,1,0.828028549382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",144,141,0,0.8512731481481481,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",145,847,1,0.896460262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",146,500,1,0.8590374228395061,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",147,185,0,0.9111207561728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",148,97,1,0.8572530864197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",149,325,1,0.849585262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",150,403,0,0.9140625,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",151,975,0,-1.1394675925925926,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",152,430,1,0.826195987654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",153,732,1,0.9090470679012346,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",154,67,1,0.86328125,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",155,774,1,0.8622202932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",156,1051,1,0.8914930555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",157,997,1,0.8485725308641976,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",158,1095,0,-1.0749421296296298,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",159,79,0,0.9599247685185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",160,1079,0,-1.0701195987654322,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",161,252,1,0.8668981481481481,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",162,122,1,0.8474151234567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",163,626,1,0.8779899691358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",164,713,1,0.8513695987654322,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",165,600,0,-1.1043113425925926,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",166,996,0,-1.1630015432098766,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",167,85,0,0.8386381172839505,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",168,729,1,0.8064718364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",169,13,0,0.898533950617284,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",170,1055,0,0.9422743055555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",171,935,0,0.9228395061728394,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",172,764,0,-1.0994888117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",173,571,0,0.7572337962962963,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",174,524,0,0.865162037037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",175,323,0,-1.1698013117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",176,635,0,-1.1444347993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",177,876,1,0.9090952932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",178,94,0,0.820264274691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",179,2,0,-1.1756365740740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",180,269,0,0.837914737654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",181,594,1,0.8064718364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",182,1056,1,0.8856095679012346,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",183,121,0,-1.0819347993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",184,318,0,-1.1189718364197532,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",185,475,0,-1.054494598765432,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",186,616,0,-1.1473765432098766,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",187,216,1,0.9443479938271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",188,506,1,0.917824074074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",189,676,1,0.863233024691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",190,1040,0,0.8583622685185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",191,582,0,0.884837962962963,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",192,329,1,0.7789834104938271,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",193,183,0,0.8454861111111112,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",194,1017,0,0.8934220679012346,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",195,106,1,0.9248167438271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",196,56,0,0.9031635802469136,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",197,757,0,0.8455343364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",198,979,1,0.9365354938271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",199,490,0,-1.1521508487654322,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",200,64,1,0.8036265432098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",201,991,0,-1.1151138117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",202,467,0,0.8739390432098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",203,149,0,-1.0496720679012346,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",204,705,0,-1.1306905864197532,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",205,293,0,-1.1824845679012348,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",206,306,1,0.958960262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",207,411,1,0.8035300925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",208,908,0,0.8544077932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",209,653,1,0.9201871141975309,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",210,601,0,0.7857831790123457,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",211,780,1,0.9170524691358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",212,349,0,-1.0799575617283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",213,540,0,-1.1081211419753088,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",214,443,0,-1.0594618055555558,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",215,39,1,0.8864776234567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",216,420,1,0.8367091049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",217,520,1,0.9366319444444444,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",218,20,0,0.9678337191358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",219,801,0,-1.0721450617283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",220,220,0,0.8936149691358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",221,35,0,0.9991319444444444,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",222,836,1,0.8700810185185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",223,1039,1,0.8701292438271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",224,773,0,0.931712962962963,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",225,754,0,0.843701774691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",226,148,0,-1.0750385802469136,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",227,788,1,0.87890625,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",228,784,1,0.878809799382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",229,552,0,0.9227430555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",230,650,0,0.8426408179012346,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",231,359,0,-1.0985243055555558,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",232,372,0,0.913966049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",233,320,1,0.9130015432098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",234,206,1,0.876977237654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",235,870,0,-1.0818865740740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",236,1086,1,0.8994502314814814,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",237,826,1,0.8584587191358024,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",238,382,0,-1.0506847993827162,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",239,771,1,0.8455343364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",240,288,0,0.91796875,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",241,959,0,-1.0641878858024691,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",242,337,1,0.8552276234567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",243,169,1,0.8896604938271606,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",244,81,1,0.867139274691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",245,783,1,-1.1121238425925926,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",246,939,1,0.8101851851851851,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",247,897,1,0.912085262345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",248,886,1,0.9580922067901234,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",249,818,0,0.8622202932098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",250,267,0,-1.0583526234567902,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",251,899,0,0.8993055555555556,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",252,881,0,-1.1532600308641976,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",253,894,1,0.878954475308642,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",254,388,0,-1.122878086419753,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",255,782,0,0.8719135802469136,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",256,495,1,0.9363425925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",257,480,0,-1.1317033179012346,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",258,679,0,-1.076099537037037,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",259,36,1,0.9755015432098766,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",260,963,1,0.9197530864197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",261,44,1,0.9083236882716048,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",262,714,1,0.915991512345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",263,1047,0,-1.1376350308641976,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",264,649,1,0.9229841820987654,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",265,509,0,0.8817997685185186,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",266,1084,0,0.785059799382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",267,313,0,-1.1317033179012346,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",268,831,0,-1.0779320987654322,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",269,518,0,0.972608024691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",270,620,1,0.925733024691358,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",271,914,1,0.9631076388888888,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",272,324,1,-1.0984278549382716,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",273,285,0,-1.0906153549382716,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",274,957,0,0.8738425925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",275,54,1,0.8425925925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",276,1029,0,-1.1365740740740742,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",277,777,1,0.8679591049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",278,543,0,0.9285300925925926,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",279,513,0,0.935522762345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",280,157,1,0.9308449074074074,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",281,964,1,0.865258487654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",282,72,0,0.896412037037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",283,294,0,0.931616512345679,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",284,986,1,0.855516975308642,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",285,859,1,0.8630883487654322,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",286,332,0,-1.1414448302469138,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",287,15,0,0.900318287037037,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",288,810,1,0.9109278549382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",289,776,1,0.867091049382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",290,750,0,0.839891975308642,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",291,360,0,-1.0906153549382718,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",292,340,0,-1.0956307870370372,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",293,253,0,0.7360628858024691,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",294,593,1,0.917872299382716,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",295,645,1,0.8005401234567902,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",296,1050,1,0.861352237654321,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",297,354,0,-1.0838638117283952,0.3501080246913581,0
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",298,694,0,0.8455343364197532,0.3501080246913581,1
+"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",299,1006,0,0.8641010802469136,0.3501080246913581,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",0,379,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",1,237,1,0.6328125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",2,742,0,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",3,527,0,0.3203125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",4,644,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",5,945,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",6,438,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",7,579,0,0.34375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",8,922,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",9,352,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",10,624,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",11,542,0,0.375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",12,146,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",13,585,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",14,143,0,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",15,233,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",16,556,0,0.3359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",17,196,0,0.34375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",18,418,0,0.37109375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",19,560,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",20,1005,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",21,117,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",22,250,0,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",23,381,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",24,809,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",25,456,0,0.65234375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",26,795,1,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",27,21,0,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",28,150,1,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",29,581,1,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",30,230,0,0.37109375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",31,1026,0,0.60546875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",32,398,0,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",33,634,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",34,58,0,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",35,406,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",36,745,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",37,33,0,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",38,704,0,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",39,298,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",40,944,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",41,113,0,0.75390625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",42,1043,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",43,175,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",44,278,0,0.33203125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",45,891,1,0.6484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",46,276,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",47,1021,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",48,488,0,0.3515625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",49,673,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",50,178,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",51,66,0,0.41796875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",52,394,1,0.7265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",53,191,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",54,10,1,0.734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",55,415,0,0.41796875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",56,442,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",57,257,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",58,763,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",59,921,0,0.44140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",60,800,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",61,348,1,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",62,701,1,0.76953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",63,933,1,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",64,603,1,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",65,781,1,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",66,145,1,0.6484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",67,19,0,0.31640625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",68,632,1,0.33203125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",69,37,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",70,529,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",71,392,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",72,816,1,0.64453125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",73,630,1,0.7265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",74,901,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",75,759,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",76,1097,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",77,903,0,0.73828125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",78,282,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",79,472,1,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",80,851,0,0.375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",81,202,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",82,511,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",83,965,0,0.390625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",84,765,1,0.734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",85,29,0,0.359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",86,491,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",87,347,0,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",88,485,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",89,692,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",90,902,0,0.37109375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",91,461,0,0.3515625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",92,154,0,0.34375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",93,409,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",94,934,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",95,1074,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",96,1078,0,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",97,1072,1,0.7734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",98,569,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",99,27,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",100,999,1,0.39453125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",101,839,0,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",102,60,0,0.68359375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",103,156,0,0.76953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",104,550,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",105,572,1,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",106,414,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",107,564,1,0.7265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",108,574,0,0.34375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",109,602,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",110,116,0,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",111,124,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",112,865,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",113,657,0,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",114,1076,1,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",115,336,1,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",116,739,1,0.75390625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",117,234,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",118,588,0,0.7734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",119,703,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",120,813,1,0.3984375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",121,597,0,0.44140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",122,753,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",123,587,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",124,855,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",125,142,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",126,995,1,0.765625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",127,449,0,0.734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",128,426,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",129,176,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",130,319,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",131,947,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",132,30,1,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",133,866,0,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",134,688,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",135,711,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",136,873,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",137,937,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",138,493,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",139,390,1,0.7578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",140,1098,1,0.68359375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",141,24,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",142,640,0,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",143,218,1,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",144,141,0,0.68359375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",145,847,1,0.77734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",146,500,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",147,185,0,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",148,97,1,0.74609375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",149,325,1,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",150,403,0,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",151,975,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",152,430,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",153,732,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",154,67,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",155,774,1,0.7265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",156,1051,1,0.74609375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",157,997,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",158,1095,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",159,79,0,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",160,1079,0,0.328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",161,252,1,0.74609375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",162,122,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",163,626,1,0.64453125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",164,713,1,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",165,600,0,0.3515625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",166,996,0,0.390625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",167,85,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",168,729,1,0.73828125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",169,13,0,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",170,1055,0,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",171,935,0,0.75,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",172,764,0,0.3671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",173,571,0,0.734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",174,524,0,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",175,323,0,0.328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",176,635,0,0.359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",177,876,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",178,94,0,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",179,2,0,0.375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",180,269,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",181,594,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",182,1056,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",183,121,0,0.390625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",184,318,0,0.33984375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",185,475,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",186,616,0,0.34375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",187,216,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",188,506,1,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",189,676,1,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",190,1040,0,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",191,582,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",192,329,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",193,183,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",194,1017,0,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",195,106,1,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",196,56,0,0.73828125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",197,757,0,0.75390625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",198,979,1,0.66796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",199,490,0,0.4296875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",200,64,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",201,991,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",202,467,0,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",203,149,0,0.33984375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",204,705,0,0.39453125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",205,293,0,0.359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",206,306,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",207,411,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",208,908,0,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",209,653,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",210,601,0,0.6484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",211,780,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",212,349,0,0.4140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",213,540,0,0.34765625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",214,443,0,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",215,39,1,0.66015625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",216,420,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",217,520,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",218,20,0,0.75,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",219,801,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",220,220,0,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",221,35,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",222,836,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",223,1039,1,0.640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",224,773,0,0.66796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",225,754,0,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",226,148,0,0.375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",227,788,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",228,784,1,0.734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",229,552,0,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",230,650,0,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",231,359,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",232,372,0,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",233,320,1,0.671875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",234,206,1,0.64453125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",235,870,0,0.359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",236,1086,1,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",237,826,1,0.640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",238,382,0,0.4140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",239,771,1,0.73828125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",240,288,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",241,959,0,0.37890625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",242,337,1,0.77734375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",243,169,1,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",244,81,1,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",245,783,1,0.4140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",246,939,1,0.70703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",247,897,1,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",248,886,1,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",249,818,0,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",250,267,0,0.4140625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",251,899,0,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",252,881,0,0.328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",253,894,1,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",254,388,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",255,782,0,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",256,495,1,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",257,480,0,0.37109375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",258,679,0,0.359375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",259,36,1,0.71875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",260,963,1,0.66796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",261,44,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",262,714,1,0.66796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",263,1047,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",264,649,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",265,509,0,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",266,1084,0,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",267,313,0,0.375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",268,831,0,0.40234375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",269,518,0,0.7421875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",270,620,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",271,914,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",272,324,1,0.36328125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",273,285,0,0.38671875,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",274,957,0,0.6953125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",275,54,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",276,1029,0,0.42578125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",277,777,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",278,543,0,0.6875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",279,513,0,0.68359375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",280,157,1,0.6640625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",281,964,1,0.67578125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",282,72,0,0.69140625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",283,294,0,0.73046875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",284,986,1,0.71484375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",285,859,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",286,332,0,0.42578125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",287,15,0,0.7109375,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",288,810,1,0.72265625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",289,776,1,0.6796875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",290,750,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",291,360,0,0.33984375,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",292,340,0,0.3828125,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",293,253,0,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",294,593,1,0.75,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",295,645,1,0.65625,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",296,1050,1,0.703125,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",297,354,0,0.3515625,0.508125,0
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",298,694,0,0.69921875,0.508125,1
+"Isolation Forest + VQC IBM Hardware, 300-sample split test",299,1006,0,0.6328125,0.508125,1

@@ -1,0 +1,2 @@
+track,model,split,threshold,accuracy,precision,recall,f1,roc_auc,pr_auc,fpr,fnr,tn,fp,fn,tp,n_rows
+isolation_forest_plus_quantum_hardware_split_300,isolation_forest_plus_vqc_ibm_hardware_300,hardware_test_subset_300,0.508125,0.75,0.6744186046511628,0.9666666666666667,0.7945205479452054,0.7333555555555555,0.6528294199450035,0.4666666666666667,0.03333333333333333,80.0,70.0,5.0,145.0,300

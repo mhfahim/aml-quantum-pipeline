@@ -1,0 +1,8 @@
+model_group,model,evaluation_type,test_rows,training_time_seconds,test_inference_time_seconds,total_runtime_seconds,n_qubits,shots,model_circuits,total_submitted_circuits,transpile_time_seconds,wait_for_result_time_seconds,total_turnaround_time_seconds,ibm_quantum_seconds,interpretation
+Classical,Logistic Regression,Classical inference/runtime,111329.0,0.0,0.269182,0.000302,,,,,,,,,Classical runtime. No IBM QPU queue or quantum execution cost.
+Classical,MLP,Classical inference/runtime,1000.0,0.126635,,0.000432,,,,,,,,,Classical runtime. No IBM QPU queue or quantum execution cost.
+Classical,SVM,Classical inference/runtime,1000.0,0.39204,,0.057069,,,,,,,,,Classical runtime. No IBM QPU queue or quantum execution cost.
+Classical,HistGradientBoosting,Classical inference/runtime,111329.0,0.0,0.481058,0.411618,,,,,,,,,Classical runtime. No IBM QPU queue or quantum execution cost.
+Classical,Random Forest,Classical inference/runtime,111329.0,0.0,0.487948,0.477472,,,,,,,,,Classical runtime. No IBM QPU queue or quantum execution cost.
+"IBM hardware, 300-sample feasibility","Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",Real IBM Quantum hardware runtime,300.0,0.002536,,,4.0,256.0,3155.0,3155.0,141.406927,300.582071,310.961635,220.0,"Includes IBM hardware transpilation, queue/wait/result time, circuits, shots, and quantum usage."
+"IBM hardware, 300-sample feasibility","Isolation Forest + VQC IBM Hardware, 300-sample split test",Real IBM Quantum hardware runtime,300.0,,,,4.0,256.0,310.0,310.0,15.330692,109.70137,112.905879,23.0,"Includes IBM hardware transpilation, queue/wait/result time, circuits, shots, and quantum usage."

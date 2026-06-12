@@ -1,0 +1,41 @@
+{
+  "mode": "ibm_hardware_split_model",
+  "model": "vqc",
+  "connected_channel": "ibm_quantum_platform",
+  "backend_name": "ibm_fez",
+  "job_id": "d8m27grnn5bs738spkag",
+  "shots": 256,
+  "n_qubits": 4,
+  "train_rows": 10,
+  "valid_rows": 10,
+  "test_rows": 300,
+  "submitted_circuits": 310,
+  "transpile_time_seconds": 15.330692490999354,
+  "submit_overhead_seconds": 3.204470833999949,
+  "wait_for_result_time_seconds": 109.70136952699977,
+  "total_turnaround_time_seconds": 112.90587900399987,
+  "job_payload": {
+    "job_id": "d8m27grnn5bs738spkag",
+    "status": "DONE",
+    "metrics": {
+      "caller": "qiskit_ibm_runtime~sampler.py",
+      "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.4.1*",
+      "timestamps": {
+        "created": "2026-06-12T15:20:35.225546Z",
+        "finished": "2026-06-12T15:22:23.641614Z",
+        "running": "2026-06-12T15:21:14.99537Z"
+      },
+      "bss": {
+        "seconds": 23
+      },
+      "usage": {
+        "quantum_seconds": 23,
+        "seconds": 23,
+        "status": "complete"
+      }
+    },
+    "usage_estimation": {
+      "quantum_seconds": 24.022355155
+    }
+  }
+}

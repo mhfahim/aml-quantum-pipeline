@@ -1,0 +1,41 @@
+{
+  "mode": "ibm_hardware_split_model",
+  "model": "qksvc",
+  "connected_channel": "ibm_quantum_platform",
+  "backend_name": "ibm_marrakesh",
+  "job_id": "d8m1b8j2d42s73cc25eg",
+  "shots": 256,
+  "n_qubits": 4,
+  "train_rows": 10,
+  "valid_rows": 10,
+  "test_rows": 300,
+  "submitted_circuits": 3155,
+  "transpile_time_seconds": 141.40692699099964,
+  "submit_overhead_seconds": 10.379521617000137,
+  "wait_for_result_time_seconds": 300.5820710450007,
+  "total_turnaround_time_seconds": 310.9616351650002,
+  "job_payload": {
+    "job_id": "d8m1b8j2d42s73cc25eg",
+    "status": "DONE",
+    "metrics": {
+      "caller": "qiskit_ibm_runtime~sampler.py",
+      "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.4.1*",
+      "timestamps": {
+        "created": "2026-06-12T14:20:18.67687Z",
+        "finished": "2026-06-12T14:25:17.695292Z",
+        "running": "2026-06-12T14:20:36.687634Z"
+      },
+      "bss": {
+        "seconds": 220
+      },
+      "usage": {
+        "quantum_seconds": 220,
+        "seconds": 220,
+        "status": "complete"
+      }
+    },
+    "usage_estimation": {
+      "quantum_seconds": 205.066711648
+    }
+  }
+}
