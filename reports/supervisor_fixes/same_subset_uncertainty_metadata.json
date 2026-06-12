@@ -1,0 +1,10 @@
+{
+  "ci_method": "Bootstrap resampling from score-level test predictions.",
+  "bootstrap_iterations": 2000,
+  "threshold_selection": "Threshold selected on validation split by maximum F1, then fixed for test/bootstrap.",
+  "important_note": "This same-subset comparison is valid only for the reduced quantum-compatible subset. It should not be used to claim full-scale quantum superiority.",
+  "test_rows": 300,
+  "train_rows": 500,
+  "valid_rows": 300,
+  "n_qubits": 4
+}

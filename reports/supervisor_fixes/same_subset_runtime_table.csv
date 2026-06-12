@@ -1,0 +1,10 @@
+model,model_family,train_rows,valid_rows,test_rows,training_time_seconds,valid_plus_test_scoring_time_seconds,n_qubits,shots,circuits_or_state_evaluations,compute_cost_type
+Logistic Regression,Classical,500,300,300,0.032782,0.000828,,,,Classical CPU runtime on reduced subset
+HistGradientBoosting,Classical,500,300,300,0.199099,0.00869,,,,Classical CPU runtime on reduced subset
+Random Forest,Classical,500,300,300,0.243306,0.082407,,,,Classical CPU runtime on reduced subset
+SVM RBF,Classical,500,300,300,0.0557,0.020089,,,,Classical CPU runtime on reduced subset
+MLP,Classical,500,300,300,0.303807,0.000755,,,,Classical CPU runtime on reduced subset
+Quantum Kernel SVC Statevector,Quantum simulation,500,300,300,0.127925,0.004905,4.0,,1100.0,Statevector simulation on classical hardware
+Isolation Forest + Quantum Kernel SVC Statevector,Hybrid quantum simulation,500,300,300,0.127925,0.004905,4.0,,1100.0,Isolation Forest-selected subset + QKSVC statevector simulation
+VQC Statevector,Quantum simulation,500,300,300,4.51493,0.065885,4.0,,1100.0,Statevector simulation on classical hardware
+Isolation Forest + VQC Statevector,Hybrid quantum simulation,500,300,300,4.51493,0.065885,4.0,,1100.0,Isolation Forest-selected subset + VQC statevector simulation

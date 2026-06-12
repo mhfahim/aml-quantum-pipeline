@@ -1,0 +1,18 @@
+{
+  "dataset_file": "/kaggle/working/supervisor_fixes/data/same_reduced_quantum_compatible_dataset.npz",
+  "source_csv": "/kaggle/working/supervisor_fixes/data/same_reduced_quantum_compatible_dataset_source.csv",
+  "n_rows": 1100,
+  "n_qubits": 4,
+  "features": [
+    "log_amount_received",
+    "log_amount_paid",
+    "amount_delta",
+    "amount_ratio"
+  ],
+  "split_design": {
+    "train_per_class": 250,
+    "valid_per_class": 150,
+    "test_per_class": 150
+  },
+  "note": "Balanced reduced quantum-compatible subset selected using Isolation Forest anomaly ranking. This is for same-subset comparison and uncertainty analysis, not full-scale deployment evaluation."
+}
