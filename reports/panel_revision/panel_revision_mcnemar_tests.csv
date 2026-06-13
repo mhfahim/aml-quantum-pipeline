@@ -1,0 +1,57 @@
+scope,model_a,model_b,n_common_samples,model_a_correct_model_b_wrong,model_a_wrong_model_b_correct,discordant_pairs,mcnemar_exact_p_value,significant_at_0_05,interpretation
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",300,0,0,0,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,300,0,0,0,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,300,54,5,59,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,300,30,57,87,0.005014,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,300,138,94,232,0.004651,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,300,138,93,231,0.003698,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,300,54,5,59,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,300,30,57,87,0.005014,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,300,77,69,146,0.562521,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,300,162,43,205,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,300,138,94,232,0.004651,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,300,54,5,59,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,300,30,57,87,0.005014,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,300,138,94,232,0.004651,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,300,138,93,231,0.003698,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,300,54,5,59,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,300,30,57,87,0.005014,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,300,77,69,146,0.562521,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,300,162,43,205,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,300,138,94,232,0.004651,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,300,5,81,86,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,300,143,148,291,0.814659,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,300,143,147,290,0.860202,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,300,0,0,0,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,300,5,81,86,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,300,71,112,183,0.003002,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,300,138,68,206,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,300,143,148,291,0.814659,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,300,138,67,205,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,300,139,67,206,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,300,81,5,86,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,300,0,0,0,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,300,66,31,97,0.00049,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,300,218,72,290,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,300,138,67,205,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,300,1,0,1,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,300,148,143,291,0.814659,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,300,67,138,205,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,300,36,72,108,0.000684,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,300,80,5,85,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,300,0,0,0,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,MLP,300,147,143,290,0.860202,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,300,67,139,206,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,300,36,73,109,0.000505,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,300,80,6,86,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,300,0,1,1,1.0,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,300,5,81,86,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,MLP,Random Forest,300,71,112,183,0.003002,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,MLP,SVM RBF,300,138,68,206,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,MLP,VQC Statevector,300,143,148,291,0.814659,False,No significant paired error-pattern difference at 0.05
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,300,66,31,97,0.00049,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,300,218,72,290,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,300,138,67,205,1e-06,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Random Forest,SVM RBF,300,152,41,193,0.0,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,300,72,36,108,0.000684,True,Significant difference in paired error pattern
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,300,5,80,85,0.0,True,Significant difference in paired error pattern

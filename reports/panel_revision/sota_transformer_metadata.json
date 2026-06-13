@@ -1,0 +1,12 @@
+{
+  "dataset": "/kaggle/working/aml_phase7/data/phase7_if_quantum_dataset_4q.npz",
+  "models_added": [
+    "FT-Transformer-style Tabular Classifier",
+    "AutoInt-style Attention Tabular Classifier"
+  ],
+  "evaluation_scope": "same reduced four-feature subset",
+  "features": "same four quantum-compatible features represented in the dataset",
+  "random_state": 42,
+  "device": "cpu",
+  "note": "Transformer-based tabular baselines added for panel revision. FPR is included as the false-positive metric."
+}

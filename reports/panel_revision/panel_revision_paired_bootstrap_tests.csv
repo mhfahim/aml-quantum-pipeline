@@ -1,0 +1,393 @@
+scope,model_a,model_b,metric,n_common_samples,model_a_value,model_b_value,difference_a_minus_b,bootstrap_ci_lower,bootstrap_ci_upper,paired_bootstrap_p_value,significant_at_0_05,interpretation
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",accuracy,300,0.75,0.75,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",precision,300,0.674419,0.674419,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",recall,300,0.966667,0.966667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",f1_score,300,0.794521,0.794521,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",fpr,300,0.466667,0.466667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",roc_auc,300,0.761067,0.733356,0.027711,-0.024178,0.08341,0.313,False,No significant paired metric difference at 0.05
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test","Isolation Forest + VQC IBM Hardware, 300-sample split test",pr_auc,300,0.67547,0.652829,0.022641,-0.054203,0.101642,0.546,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,accuracy,300,0.663333,0.663333,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,precision,300,0.60166,0.60166,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,recall,300,0.966667,0.966667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,f1_score,300,0.741688,0.741688,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,fpr,300,0.64,0.64,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,roc_auc,300,0.672622,0.672978,-0.000356,-0.002148,0.001473,0.691,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,FT-Transformer-style Tabular Classifier,pr_auc,300,0.579514,0.581617,-0.002103,-0.011201,0.004727,0.59,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,accuracy,300,0.663333,0.5,0.163333,0.12,0.21,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,precision,300,0.60166,0.5,0.10166,0.073748,0.133166,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,recall,300,0.966667,1.0,-0.033333,-0.064107,-0.006993,0.006,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,f1_score,300,0.741688,0.666667,0.075021,0.047383,0.103743,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,fpr,300,0.64,1.0,-0.36,-0.439202,-0.282047,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,roc_auc,300,0.672622,0.5,0.172622,0.111244,0.234272,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,HistGradientBoosting,pr_auc,300,0.579514,0.5,0.079514,0.030345,0.14845,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,accuracy,300,0.663333,0.753333,-0.09,-0.15,-0.03,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,precision,300,0.60166,0.67757,-0.07591,-0.125398,-0.026722,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,recall,300,0.966667,0.966667,0.0,-0.039474,0.041379,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,f1_score,300,0.741688,0.796703,-0.055015,-0.095601,-0.014768,0.008,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,fpr,300,0.64,0.46,0.18,0.067568,0.291398,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,roc_auc,300,0.672622,0.742178,-0.069556,-0.153713,0.01289,0.101,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,pr_auc,300,0.579514,0.729721,-0.150207,-0.222927,-0.061607,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,accuracy,300,0.663333,0.516667,0.146667,0.05,0.243333,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,precision,300,0.60166,0.777778,-0.176118,-0.427387,0.150261,0.237,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,recall,300,0.966667,0.046667,0.92,0.873999,0.961039,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,f1_score,300,0.741688,0.08805,0.653638,0.576491,0.729546,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,fpr,300,0.64,0.013333,0.626667,0.54902,0.701502,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,roc_auc,300,0.672622,0.705467,-0.032844,-0.117295,0.050823,0.45,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Isolation Forest + VQC Statevector,pr_auc,300,0.579514,0.703083,-0.123569,-0.207533,-0.034183,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,accuracy,300,0.663333,0.513333,0.15,0.046667,0.25,0.007,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,precision,300,0.60166,0.7,-0.09834,-0.390783,0.220781,0.546,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,recall,300,0.966667,0.046667,0.92,0.876623,0.96129,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,f1_score,300,0.741688,0.0875,0.654188,0.578594,0.727593,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,fpr,300,0.64,0.02,0.62,0.538949,0.697188,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,roc_auc,300,0.672622,0.757822,-0.0852,-0.164756,-0.002837,0.042,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Logistic Regression,pr_auc,300,0.579514,0.707659,-0.128145,-0.220687,-0.03933,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,accuracy,300,0.663333,0.5,0.163333,0.116667,0.21,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,precision,300,0.60166,0.5,0.10166,0.073452,0.132984,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,recall,300,0.966667,1.0,-0.033333,-0.065789,-0.007142,0.012,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,f1_score,300,0.741688,0.666667,0.075021,0.048321,0.101707,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,fpr,300,0.64,1.0,-0.36,-0.44,-0.28472,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,roc_auc,300,0.672622,0.264267,0.408356,0.323381,0.495775,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,MLP,pr_auc,300,0.579514,0.380059,0.199455,0.137125,0.269308,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,accuracy,300,0.663333,0.753333,-0.09,-0.15,-0.03,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,precision,300,0.60166,0.67757,-0.07591,-0.125177,-0.027864,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,recall,300,0.966667,0.966667,0.0,-0.040547,0.040541,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,f1_score,300,0.741688,0.796703,-0.055015,-0.097435,-0.012786,0.013,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,fpr,300,0.64,0.46,0.18,0.069764,0.286646,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,roc_auc,300,0.672622,0.742178,-0.069556,-0.146782,0.01644,0.126,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Quantum Kernel SVC Statevector,pr_auc,300,0.579514,0.729721,-0.150207,-0.226674,-0.064581,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,accuracy,300,0.663333,0.636667,0.026667,-0.05,0.106667,0.546,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,precision,300,0.60166,0.675214,-0.073554,-0.148752,-0.002201,0.044,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,recall,300,0.966667,0.526667,0.44,0.358096,0.521479,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,f1_score,300,0.741688,0.59176,0.149928,0.076305,0.224127,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,fpr,300,0.64,0.253333,0.386667,0.288221,0.488001,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,roc_auc,300,0.672622,0.635756,0.036867,-0.043525,0.116508,0.359,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,Random Forest,pr_auc,300,0.579514,0.592279,-0.012765,-0.075912,0.072277,0.853,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,accuracy,300,0.663333,0.266667,0.396667,0.316583,0.48,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,precision,300,0.60166,0.12766,0.474,0.400755,0.552688,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,recall,300,0.966667,0.08,0.886667,0.835524,0.933833,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,f1_score,300,0.741688,0.098361,0.643327,0.578159,0.707296,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,fpr,300,0.64,0.546667,0.093333,-0.013795,0.203951,0.111,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,roc_auc,300,0.672622,0.258667,0.413956,0.327435,0.497366,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,SVM RBF,pr_auc,300,0.579514,0.36417,0.215345,0.157188,0.2874,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,accuracy,300,0.663333,0.516667,0.146667,0.04325,0.243333,0.008,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,precision,300,0.60166,0.777778,-0.176118,-0.41804,0.129668,0.229,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,recall,300,0.966667,0.046667,0.92,0.873121,0.96,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,f1_score,300,0.741688,0.08805,0.653638,0.574602,0.730106,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,fpr,300,0.64,0.013333,0.626667,0.550319,0.700638,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,roc_auc,300,0.672622,0.705467,-0.032844,-0.116663,0.051926,0.486,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,VQC Statevector,pr_auc,300,0.579514,0.703083,-0.123569,-0.206851,-0.033106,0.013,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,accuracy,300,0.663333,0.5,0.163333,0.12,0.210083,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,precision,300,0.60166,0.5,0.10166,0.071866,0.132816,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,recall,300,0.966667,1.0,-0.033333,-0.066225,-0.006993,0.007,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,f1_score,300,0.741688,0.666667,0.075021,0.048648,0.102181,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,fpr,300,0.64,1.0,-0.36,-0.439197,-0.284654,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,roc_auc,300,0.672978,0.5,0.172978,0.109887,0.234784,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,HistGradientBoosting,pr_auc,300,0.581617,0.5,0.081617,0.031986,0.147237,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,accuracy,300,0.663333,0.753333,-0.09,-0.15,-0.033333,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,precision,300,0.60166,0.67757,-0.07591,-0.12384,-0.029051,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,recall,300,0.966667,0.966667,0.0,-0.042261,0.043486,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,f1_score,300,0.741688,0.796703,-0.055015,-0.095931,-0.015882,0.008,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,fpr,300,0.64,0.46,0.18,0.071884,0.287676,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,roc_auc,300,0.672978,0.742178,-0.0692,-0.155663,0.013174,0.103,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + Quantum Kernel SVC Statevector,pr_auc,300,0.581617,0.729721,-0.148104,-0.221121,-0.058302,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,accuracy,300,0.663333,0.516667,0.146667,0.043333,0.24,0.005,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,precision,300,0.60166,0.777778,-0.176118,-0.417038,0.117046,0.214,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,recall,300,0.966667,0.046667,0.92,0.872081,0.96129,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,f1_score,300,0.741688,0.08805,0.653638,0.574439,0.72737,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,fpr,300,0.64,0.013333,0.626667,0.544206,0.706687,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,roc_auc,300,0.672978,0.705467,-0.032489,-0.113133,0.053839,0.47,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Isolation Forest + VQC Statevector,pr_auc,300,0.581617,0.703083,-0.121466,-0.204986,-0.034648,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,accuracy,300,0.663333,0.513333,0.15,0.053333,0.246667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,precision,300,0.60166,0.7,-0.09834,-0.394309,0.211066,0.509,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,recall,300,0.966667,0.046667,0.92,0.874977,0.958621,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,f1_score,300,0.741688,0.0875,0.654188,0.57102,0.728745,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,fpr,300,0.64,0.02,0.62,0.540741,0.69404,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,roc_auc,300,0.672978,0.757822,-0.084844,-0.159939,-0.005667,0.036,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Logistic Regression,pr_auc,300,0.581617,0.707659,-0.126042,-0.21179,-0.04048,0.005,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,accuracy,300,0.663333,0.5,0.163333,0.116667,0.206667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,precision,300,0.60166,0.5,0.10166,0.07297,0.131734,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,recall,300,0.966667,1.0,-0.033333,-0.064113,-0.006847,0.015,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,f1_score,300,0.741688,0.666667,0.075021,0.048531,0.103097,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,fpr,300,0.64,1.0,-0.36,-0.439716,-0.285714,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,roc_auc,300,0.672978,0.264267,0.408711,0.320011,0.496823,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,MLP,pr_auc,300,0.581617,0.380059,0.201558,0.141788,0.274949,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,accuracy,300,0.663333,0.753333,-0.09,-0.146667,-0.03,0.007,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,precision,300,0.60166,0.67757,-0.07591,-0.120923,-0.028079,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,recall,300,0.966667,0.966667,0.0,-0.039222,0.041674,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,f1_score,300,0.741688,0.796703,-0.055015,-0.096264,-0.014229,0.006,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,fpr,300,0.64,0.46,0.18,0.068954,0.290128,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,roc_auc,300,0.672978,0.742178,-0.0692,-0.154937,0.013542,0.121,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Quantum Kernel SVC Statevector,pr_auc,300,0.581617,0.729721,-0.148104,-0.216629,-0.061676,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,accuracy,300,0.663333,0.636667,0.026667,-0.05,0.106667,0.526,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,precision,300,0.60166,0.675214,-0.073554,-0.140747,-0.004272,0.036,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,recall,300,0.966667,0.526667,0.44,0.357663,0.519743,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,f1_score,300,0.741688,0.59176,0.149928,0.077662,0.223156,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,fpr,300,0.64,0.253333,0.386667,0.293224,0.480526,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,roc_auc,300,0.672978,0.635756,0.037222,-0.045341,0.115236,0.37,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,Random Forest,pr_auc,300,0.581617,0.592279,-0.010662,-0.076361,0.070786,0.882,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,accuracy,300,0.663333,0.266667,0.396667,0.316583,0.48,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,precision,300,0.60166,0.12766,0.474,0.394421,0.550768,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,recall,300,0.966667,0.08,0.886667,0.831169,0.935258,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,f1_score,300,0.741688,0.098361,0.643327,0.577829,0.707952,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,fpr,300,0.64,0.546667,0.093333,-0.013162,0.198664,0.094,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,roc_auc,300,0.672978,0.258667,0.414311,0.328444,0.497939,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,SVM RBF,pr_auc,300,0.581617,0.36417,0.217447,0.161396,0.287945,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,accuracy,300,0.663333,0.516667,0.146667,0.046667,0.246667,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,precision,300,0.60166,0.777778,-0.176118,-0.423265,0.145532,0.225,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,recall,300,0.966667,0.046667,0.92,0.870968,0.961783,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,f1_score,300,0.741688,0.08805,0.653638,0.570842,0.727681,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,fpr,300,0.64,0.013333,0.626667,0.549669,0.702912,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,roc_auc,300,0.672978,0.705467,-0.032489,-0.113517,0.052991,0.439,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,VQC Statevector,pr_auc,300,0.581617,0.703083,-0.121466,-0.207347,-0.025752,0.012,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,accuracy,300,0.5,0.753333,-0.253333,-0.303333,-0.196667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,precision,300,0.5,0.67757,-0.17757,-0.216669,-0.138452,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,recall,300,1.0,0.966667,0.033333,0.006803,0.06383,0.013,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,f1_score,300,0.666667,0.796703,-0.130037,-0.165807,-0.095775,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,fpr,300,1.0,0.46,0.54,0.458313,0.618203,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,roc_auc,300,0.5,0.742178,-0.242178,-0.296281,-0.182631,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,pr_auc,300,0.5,0.729721,-0.229721,-0.291789,-0.172077,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,accuracy,300,0.5,0.516667,-0.016667,-0.133333,0.093333,0.773,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,precision,300,0.5,0.777778,-0.277778,-0.52,0.045202,0.078,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,recall,300,1.0,0.046667,0.953333,0.915376,0.984971,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,f1_score,300,0.666667,0.08805,0.578616,0.494649,0.651036,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,fpr,300,1.0,0.013333,0.986667,0.964497,1.0,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,roc_auc,300,0.5,0.705467,-0.205467,-0.260102,-0.148282,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Isolation Forest + VQC Statevector,pr_auc,300,0.5,0.703083,-0.203083,-0.276484,-0.140535,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,accuracy,300,0.5,0.513333,-0.013333,-0.126667,0.093333,0.86,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,precision,300,0.5,0.7,-0.2,-0.493333,0.131708,0.204,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,recall,300,1.0,0.046667,0.953333,0.915493,0.985407,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,f1_score,300,0.666667,0.0875,0.579167,0.498738,0.652509,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,fpr,300,1.0,0.02,0.98,0.954831,1.0,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,roc_auc,300,0.5,0.757822,-0.257822,-0.309092,-0.201823,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Logistic Regression,pr_auc,300,0.5,0.707659,-0.207659,-0.284845,-0.146472,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,accuracy,300,0.5,0.5,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,precision,300,0.5,0.5,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,recall,300,1.0,1.0,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,f1_score,300,0.666667,0.666667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,fpr,300,1.0,1.0,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,roc_auc,300,0.5,0.264267,0.235733,0.175473,0.295655,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,MLP,pr_auc,300,0.5,0.380059,0.119941,0.085184,0.142969,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,accuracy,300,0.5,0.753333,-0.253333,-0.306667,-0.2,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,precision,300,0.5,0.67757,-0.17757,-0.218495,-0.140811,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,recall,300,1.0,0.966667,0.033333,0.006667,0.06383,0.017,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,f1_score,300,0.666667,0.796703,-0.130037,-0.164032,-0.095883,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,fpr,300,1.0,0.46,0.54,0.458896,0.619388,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,roc_auc,300,0.5,0.742178,-0.242178,-0.294138,-0.186587,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Quantum Kernel SVC Statevector,pr_auc,300,0.5,0.729721,-0.229721,-0.290958,-0.171335,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,accuracy,300,0.5,0.636667,-0.136667,-0.226667,-0.05,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,precision,300,0.5,0.675214,-0.175214,-0.243118,-0.105177,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,recall,300,1.0,0.526667,0.473333,0.391607,0.553195,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,f1_score,300,0.666667,0.59176,0.074906,0.003501,0.149909,0.041,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,fpr,300,1.0,0.253333,0.746667,0.671869,0.813801,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,roc_auc,300,0.5,0.635756,-0.135756,-0.185475,-0.08407,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,Random Forest,pr_auc,300,0.5,0.592279,-0.092279,-0.139345,-0.051756,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,accuracy,300,0.5,0.266667,0.233333,0.136667,0.316667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,precision,300,0.5,0.12766,0.37234,0.304479,0.442888,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,recall,300,1.0,0.08,0.92,0.873333,0.961045,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,f1_score,300,0.666667,0.098361,0.568306,0.501824,0.635118,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,fpr,300,1.0,0.546667,0.453333,0.372546,0.531034,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,roc_auc,300,0.5,0.258667,0.241333,0.180696,0.297157,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,SVM RBF,pr_auc,300,0.5,0.36417,0.13583,0.110146,0.151109,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,accuracy,300,0.5,0.516667,-0.016667,-0.13,0.096667,0.786,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,precision,300,0.5,0.777778,-0.277778,-0.520083,0.038143,0.078,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,recall,300,1.0,0.046667,0.953333,0.917647,0.984973,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,f1_score,300,0.666667,0.08805,0.578616,0.495649,0.650586,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,fpr,300,1.0,0.013333,0.986667,0.965517,1.0,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,roc_auc,300,0.5,0.705467,-0.205467,-0.26197,-0.144327,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,HistGradientBoosting,VQC Statevector,pr_auc,300,0.5,0.703083,-0.203083,-0.27441,-0.135581,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,accuracy,300,0.753333,0.516667,0.236667,0.15,0.32,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,precision,300,0.67757,0.777778,-0.100208,-0.34908,0.226155,0.458,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,recall,300,0.966667,0.046667,0.92,0.873333,0.961045,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,f1_score,300,0.796703,0.08805,0.708653,0.631633,0.778477,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,fpr,300,0.46,0.013333,0.446667,0.369427,0.524493,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,roc_auc,300,0.742178,0.705467,0.036711,-0.046854,0.113026,0.389,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,pr_auc,300,0.729721,0.703083,0.026638,-0.08153,0.127372,0.61,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,accuracy,300,0.753333,0.513333,0.24,0.149917,0.333333,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,precision,300,0.67757,0.7,-0.02243,-0.303581,0.323325,0.878,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,recall,300,0.966667,0.046667,0.92,0.875816,0.962408,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,f1_score,300,0.796703,0.0875,0.709203,0.631326,0.780925,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,fpr,300,0.46,0.02,0.44,0.358084,0.517007,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,roc_auc,300,0.742178,0.757822,-0.015644,-0.085856,0.051173,0.642,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,pr_auc,300,0.729721,0.707659,0.022062,-0.082824,0.109577,0.722,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,accuracy,300,0.753333,0.5,0.253333,0.2,0.306667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,precision,300,0.67757,0.5,0.17757,0.139268,0.218131,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,recall,300,0.966667,1.0,-0.033333,-0.064939,-0.006849,0.012,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,f1_score,300,0.796703,0.666667,0.130037,0.096442,0.164656,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,fpr,300,0.46,1.0,-0.54,-0.618421,-0.456954,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,roc_auc,300,0.742178,0.264267,0.477911,0.359855,0.584487,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,MLP,pr_auc,300,0.729721,0.380059,0.349662,0.26775,0.425684,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,accuracy,300,0.753333,0.753333,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,precision,300,0.67757,0.67757,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,recall,300,0.966667,0.966667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,f1_score,300,0.796703,0.796703,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,fpr,300,0.46,0.46,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,roc_auc,300,0.742178,0.742178,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,pr_auc,300,0.729721,0.729721,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,accuracy,300,0.753333,0.636667,0.116667,0.053333,0.18,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,precision,300,0.67757,0.675214,0.002356,-0.055424,0.058786,0.958,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,recall,300,0.966667,0.526667,0.44,0.363636,0.521163,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,f1_score,300,0.796703,0.59176,0.204943,0.138442,0.276705,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,fpr,300,0.46,0.253333,0.206667,0.143791,0.272727,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,roc_auc,300,0.742178,0.635756,0.106422,0.022227,0.189911,0.015,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,pr_auc,300,0.729721,0.592279,0.137442,0.056145,0.219411,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,accuracy,300,0.753333,0.266667,0.486667,0.386667,0.576667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,precision,300,0.67757,0.12766,0.549911,0.461077,0.635493,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,recall,300,0.966667,0.08,0.886667,0.817492,0.949278,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,f1_score,300,0.796703,0.098361,0.698343,0.619978,0.767037,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,fpr,300,0.46,0.546667,-0.086667,-0.25,0.068035,0.304,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,roc_auc,300,0.742178,0.258667,0.483511,0.369532,0.589713,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,pr_auc,300,0.729721,0.36417,0.365551,0.288816,0.432645,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,accuracy,300,0.753333,0.516667,0.236667,0.146667,0.326667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,precision,300,0.67757,0.777778,-0.100208,-0.344664,0.230422,0.492,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,recall,300,0.966667,0.046667,0.92,0.873331,0.959732,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,f1_score,300,0.796703,0.08805,0.708653,0.635986,0.776607,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,fpr,300,0.46,0.013333,0.446667,0.368412,0.525332,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,roc_auc,300,0.742178,0.705467,0.036711,-0.041506,0.116956,0.353,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,pr_auc,300,0.729721,0.703083,0.026638,-0.078582,0.121818,0.667,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,accuracy,300,0.516667,0.513333,0.003333,0.0,0.01,0.74,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,precision,300,0.777778,0.7,0.077778,0.0,0.266818,0.753,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,recall,300,0.046667,0.046667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,f1_score,300,0.08805,0.0875,0.00055,0.0,0.002064,0.749,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,fpr,300,0.013333,0.02,-0.006667,-0.020983,0.0,0.778,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,roc_auc,300,0.705467,0.757822,-0.052356,-0.082359,-0.023969,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Logistic Regression,pr_auc,300,0.703083,0.707659,-0.004575,-0.034349,0.032045,0.658,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,accuracy,300,0.516667,0.5,0.016667,-0.09,0.123417,0.805,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,precision,300,0.777778,0.5,0.277778,-0.043369,0.523333,0.094,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,recall,300,0.046667,1.0,-0.953333,-0.985816,-0.915029,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,f1_score,300,0.08805,0.666667,-0.578616,-0.653152,-0.497525,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,fpr,300,0.013333,1.0,-0.986667,-1.0,-0.965278,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,roc_auc,300,0.705467,0.264267,0.4412,0.358999,0.523803,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,MLP,pr_auc,300,0.703083,0.380059,0.323024,0.251033,0.393591,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,accuracy,300,0.516667,0.753333,-0.236667,-0.326667,-0.149917,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,precision,300,0.777778,0.67757,0.100208,-0.203905,0.347042,0.465,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,recall,300,0.046667,0.966667,-0.92,-0.962031,-0.875,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,f1_score,300,0.08805,0.796703,-0.708653,-0.776983,-0.630429,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,fpr,300,0.013333,0.46,-0.446667,-0.529042,-0.368412,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,roc_auc,300,0.705467,0.742178,-0.036711,-0.116234,0.047756,0.373,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,pr_auc,300,0.703083,0.729721,-0.026638,-0.131909,0.074186,0.631,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,accuracy,300,0.516667,0.636667,-0.12,-0.183333,-0.053333,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,precision,300,0.777778,0.675214,0.102564,-0.196496,0.352941,0.432,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,recall,300,0.046667,0.526667,-0.48,-0.560611,-0.4,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,f1_score,300,0.08805,0.59176,-0.50371,-0.583703,-0.417572,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,fpr,300,0.013333,0.253333,-0.24,-0.30823,-0.171415,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,roc_auc,300,0.705467,0.635756,0.069711,0.037908,0.101981,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,Random Forest,pr_auc,300,0.703083,0.592279,0.110804,0.066622,0.160533,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,accuracy,300,0.516667,0.266667,0.25,0.196667,0.306667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,precision,300,0.777778,0.12766,0.650118,0.354317,0.904316,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,recall,300,0.046667,0.08,-0.033333,-0.064516,-0.006944,0.016,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,f1_score,300,0.08805,0.098361,-0.01031,-0.055401,0.031175,0.628,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,fpr,300,0.013333,0.546667,-0.533333,-0.611842,-0.450696,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,roc_auc,300,0.705467,0.258667,0.4468,0.364545,0.523011,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,SVM RBF,pr_auc,300,0.703083,0.36417,0.338914,0.274025,0.406995,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,accuracy,300,0.516667,0.516667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,precision,300,0.777778,0.777778,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,recall,300,0.046667,0.046667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,f1_score,300,0.08805,0.08805,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,fpr,300,0.013333,0.013333,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,roc_auc,300,0.705467,0.705467,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,VQC Statevector,pr_auc,300,0.703083,0.703083,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,MLP,accuracy,300,0.513333,0.5,0.013333,-0.1,0.13,0.822,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,MLP,precision,300,0.7,0.5,0.2,-0.139705,0.493333,0.221,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,MLP,recall,300,0.046667,1.0,-0.953333,-0.986014,-0.913901,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,MLP,f1_score,300,0.0875,0.666667,-0.579167,-0.656671,-0.49505,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,MLP,fpr,300,0.02,1.0,-0.98,-1.0,-0.954248,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,MLP,roc_auc,300,0.757822,0.264267,0.493556,0.400248,0.579604,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,MLP,pr_auc,300,0.707659,0.380059,0.3276,0.256711,0.403515,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,accuracy,300,0.513333,0.753333,-0.24,-0.33,-0.149917,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,precision,300,0.7,0.67757,0.02243,-0.311755,0.317989,0.876,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,recall,300,0.046667,0.966667,-0.92,-0.959191,-0.874058,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,f1_score,300,0.0875,0.796703,-0.709203,-0.780231,-0.631052,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,fpr,300,0.02,0.46,-0.44,-0.521127,-0.357604,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,roc_auc,300,0.757822,0.742178,0.015644,-0.049514,0.085602,0.68,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,Quantum Kernel SVC Statevector,pr_auc,300,0.707659,0.729721,-0.022062,-0.115642,0.08293,0.685,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,accuracy,300,0.513333,0.636667,-0.123333,-0.19,-0.056667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,precision,300,0.7,0.675214,0.024786,-0.281001,0.315789,0.829,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,recall,300,0.046667,0.526667,-0.48,-0.561737,-0.4,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,f1_score,300,0.0875,0.59176,-0.50426,-0.587548,-0.417054,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,fpr,300,0.02,0.253333,-0.233333,-0.30773,-0.163372,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,roc_auc,300,0.757822,0.635756,0.122067,0.086529,0.157042,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,Random Forest,pr_auc,300,0.707659,0.592279,0.11538,0.070055,0.177474,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,accuracy,300,0.513333,0.266667,0.246667,0.193333,0.3,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,precision,300,0.7,0.12766,0.57234,0.263319,0.865997,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,recall,300,0.046667,0.08,-0.033333,-0.063388,-0.006803,0.009,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,f1_score,300,0.0875,0.098361,-0.010861,-0.05632,0.029383,0.598,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,fpr,300,0.02,0.546667,-0.526667,-0.6082,-0.444444,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,roc_auc,300,0.757822,0.258667,0.499156,0.416533,0.58209,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,SVM RBF,pr_auc,300,0.707659,0.36417,0.343489,0.279843,0.417259,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,accuracy,300,0.513333,0.516667,-0.003333,-0.01,0.0,0.732,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,precision,300,0.7,0.777778,-0.077778,-0.284131,0.0,0.739,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,recall,300,0.046667,0.046667,0.0,0.0,0.0,1.0,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,f1_score,300,0.0875,0.08805,-0.00055,-0.002037,0.0,0.771,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,fpr,300,0.02,0.013333,0.006667,0.0,0.021739,0.73,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,roc_auc,300,0.757822,0.705467,0.052356,0.023512,0.08326,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,Logistic Regression,VQC Statevector,pr_auc,300,0.707659,0.703083,0.004575,-0.034006,0.033328,0.656,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,accuracy,300,0.5,0.753333,-0.253333,-0.306667,-0.203333,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,precision,300,0.5,0.67757,-0.17757,-0.218208,-0.140055,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,recall,300,1.0,0.966667,0.033333,0.006992,0.064103,0.01,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,f1_score,300,0.666667,0.796703,-0.130037,-0.164831,-0.097764,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,fpr,300,1.0,0.46,0.54,0.463084,0.621429,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,roc_auc,300,0.264267,0.742178,-0.477911,-0.584466,-0.361726,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Quantum Kernel SVC Statevector,pr_auc,300,0.380059,0.729721,-0.349662,-0.422199,-0.261458,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,accuracy,300,0.5,0.636667,-0.136667,-0.223333,-0.053333,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,precision,300,0.5,0.675214,-0.175214,-0.243837,-0.105879,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,recall,300,1.0,0.526667,0.473333,0.389213,0.552802,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,f1_score,300,0.666667,0.59176,0.074906,0.004796,0.147346,0.032,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,fpr,300,1.0,0.253333,0.746667,0.675671,0.81251,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,roc_auc,300,0.264267,0.635756,-0.371489,-0.444712,-0.298464,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,Random Forest,pr_auc,300,0.380059,0.592279,-0.21222,-0.262943,-0.156358,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,accuracy,300,0.5,0.266667,0.233333,0.143333,0.32,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,precision,300,0.5,0.12766,0.37234,0.301811,0.44345,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,recall,300,1.0,0.08,0.92,0.871617,0.959184,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,f1_score,300,0.666667,0.098361,0.568306,0.498419,0.633755,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,fpr,300,1.0,0.546667,0.453333,0.372081,0.532051,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,SVM RBF,roc_auc,300,0.264267,0.258667,0.0056,-0.007114,0.020553,0.416,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,MLP,SVM RBF,pr_auc,300,0.380059,0.36417,0.015889,-0.002187,0.04011,0.141,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,MLP,VQC Statevector,accuracy,300,0.5,0.516667,-0.016667,-0.126667,0.096667,0.738,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,MLP,VQC Statevector,precision,300,0.5,0.777778,-0.277778,-0.52,0.046722,0.095,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,MLP,VQC Statevector,recall,300,1.0,0.046667,0.953333,0.917808,0.982356,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,VQC Statevector,f1_score,300,0.666667,0.08805,0.578616,0.495028,0.654307,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,VQC Statevector,fpr,300,1.0,0.013333,0.986667,0.965981,1.0,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,VQC Statevector,roc_auc,300,0.264267,0.705467,-0.4412,-0.521137,-0.359742,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,MLP,VQC Statevector,pr_auc,300,0.380059,0.703083,-0.323024,-0.397311,-0.250687,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,accuracy,300,0.753333,0.636667,0.116667,0.056667,0.18,0.001,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,precision,300,0.67757,0.675214,0.002356,-0.054652,0.06214,0.922,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,recall,300,0.966667,0.526667,0.44,0.36129,0.518758,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,f1_score,300,0.796703,0.59176,0.204943,0.140432,0.275114,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,fpr,300,0.46,0.253333,0.206667,0.147054,0.272111,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,roc_auc,300,0.742178,0.635756,0.106422,0.02367,0.186792,0.012,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,Random Forest,pr_auc,300,0.729721,0.592279,0.137442,0.047983,0.219991,0.002,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,accuracy,300,0.753333,0.266667,0.486667,0.39,0.57675,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,precision,300,0.67757,0.12766,0.549911,0.461394,0.636697,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,recall,300,0.966667,0.08,0.886667,0.81599,0.947394,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,f1_score,300,0.796703,0.098361,0.698343,0.624868,0.7683,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,fpr,300,0.46,0.546667,-0.086667,-0.248326,0.067579,0.296,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,roc_auc,300,0.742178,0.258667,0.483511,0.372167,0.594012,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,SVM RBF,pr_auc,300,0.729721,0.36417,0.365551,0.288444,0.434049,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,accuracy,300,0.753333,0.516667,0.236667,0.146667,0.33,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,precision,300,0.67757,0.777778,-0.100208,-0.341017,0.214386,0.486,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,recall,300,0.966667,0.046667,0.92,0.873475,0.961297,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,f1_score,300,0.796703,0.08805,0.708653,0.636031,0.778809,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,fpr,300,0.46,0.013333,0.446667,0.367224,0.529421,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,roc_auc,300,0.742178,0.705467,0.036711,-0.041557,0.119809,0.383,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,VQC Statevector,pr_auc,300,0.729721,0.703083,0.026638,-0.078393,0.123848,0.616,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Random Forest,SVM RBF,accuracy,300,0.636667,0.266667,0.37,0.286667,0.453333,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,precision,300,0.675214,0.12766,0.547554,0.445442,0.652125,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,recall,300,0.526667,0.08,0.446667,0.354833,0.532895,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,f1_score,300,0.59176,0.098361,0.4934,0.405763,0.575795,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,fpr,300,0.253333,0.546667,-0.293333,-0.421401,-0.158594,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,roc_auc,300,0.635756,0.258667,0.377089,0.308057,0.447727,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,SVM RBF,pr_auc,300,0.592279,0.36417,0.22811,0.178694,0.274419,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,accuracy,300,0.636667,0.516667,0.12,0.053333,0.186667,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,precision,300,0.675214,0.777778,-0.102564,-0.355979,0.183355,0.427,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,recall,300,0.526667,0.046667,0.48,0.403825,0.560829,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,f1_score,300,0.59176,0.08805,0.50371,0.420027,0.583702,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,fpr,300,0.253333,0.013333,0.24,0.172662,0.311111,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,roc_auc,300,0.635756,0.705467,-0.069711,-0.103128,-0.037931,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,Random Forest,VQC Statevector,pr_auc,300,0.592279,0.703083,-0.110804,-0.161671,-0.067755,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,accuracy,300,0.266667,0.516667,-0.25,-0.3,-0.2,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,precision,300,0.12766,0.777778,-0.650118,-0.906977,-0.344431,0.003,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,recall,300,0.08,0.046667,0.033333,0.006757,0.066678,0.013,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,f1_score,300,0.098361,0.08805,0.01031,-0.029845,0.053137,0.683,False,No significant paired metric difference at 0.05
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,fpr,300,0.546667,0.013333,0.533333,0.450323,0.613155,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,roc_auc,300,0.258667,0.705467,-0.4468,-0.524938,-0.368275,0.0,True,Significant paired metric difference
+same_reduced_four_feature_subset,SVM RBF,VQC Statevector,pr_auc,300,0.36417,0.703083,-0.338914,-0.405731,-0.271152,0.0,True,Significant paired metric difference

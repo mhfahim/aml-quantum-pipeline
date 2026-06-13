@@ -1,0 +1,14 @@
+scope,model,n_rows,accuracy,precision,recall,f1_score,fpr,fnr,tn,fp,fn,tp,predicted_positive_rate,actual_positive_rate,roc_auc,pr_auc
+ibm_hardware_300_sample_feasibility,"Isolation Forest + Quantum Kernel SVC IBM Hardware, 300-sample split test",300,0.75,0.674419,0.966667,0.794521,0.466667,0.033333,80,70,5,145,0.716667,0.5,0.761067,0.67547
+ibm_hardware_300_sample_feasibility,"Isolation Forest + VQC IBM Hardware, 300-sample split test",300,0.75,0.674419,0.966667,0.794521,0.466667,0.033333,80,70,5,145,0.716667,0.5,0.733356,0.652829
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,300,0.663333,0.60166,0.966667,0.741688,0.64,0.033333,54,96,5,145,0.803333,0.5,0.672622,0.579514
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,300,0.663333,0.60166,0.966667,0.741688,0.64,0.033333,54,96,5,145,0.803333,0.5,0.672978,0.581617
+same_reduced_four_feature_subset,HistGradientBoosting,300,0.5,0.5,1.0,0.666667,1.0,0.0,0,150,0,150,1.0,0.5,0.5,0.5
+same_reduced_four_feature_subset,Isolation Forest + Quantum Kernel SVC Statevector,300,0.753333,0.67757,0.966667,0.796703,0.46,0.033333,81,69,5,145,0.713333,0.5,0.742178,0.729721
+same_reduced_four_feature_subset,Isolation Forest + VQC Statevector,300,0.516667,0.777778,0.046667,0.08805,0.013333,0.953333,148,2,143,7,0.03,0.5,0.705467,0.703083
+same_reduced_four_feature_subset,Logistic Regression,300,0.513333,0.7,0.046667,0.0875,0.02,0.953333,147,3,143,7,0.033333,0.5,0.757822,0.707659
+same_reduced_four_feature_subset,MLP,300,0.5,0.5,1.0,0.666667,1.0,0.0,0,150,0,150,1.0,0.5,0.264267,0.380059
+same_reduced_four_feature_subset,Quantum Kernel SVC Statevector,300,0.753333,0.67757,0.966667,0.796703,0.46,0.033333,81,69,5,145,0.713333,0.5,0.742178,0.729721
+same_reduced_four_feature_subset,Random Forest,300,0.636667,0.675214,0.526667,0.59176,0.253333,0.473333,112,38,71,79,0.39,0.5,0.635756,0.592279
+same_reduced_four_feature_subset,SVM RBF,300,0.266667,0.12766,0.08,0.098361,0.546667,0.92,68,82,138,12,0.313333,0.5,0.258667,0.36417
+same_reduced_four_feature_subset,VQC Statevector,300,0.516667,0.777778,0.046667,0.08805,0.013333,0.953333,148,2,143,7,0.03,0.5,0.705467,0.703083

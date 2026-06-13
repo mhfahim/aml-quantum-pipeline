@@ -1,0 +1,37 @@
+model_a,model_b,n_paired_rows,a_correct_b_wrong,a_wrong_b_correct,discordant_pairs,accuracy_a,accuracy_b,accuracy_difference_a_minus_b,mcnemar_exact_p_value,significant_at_0_05,interpretation
+HistGradientBoosting,Isolation Forest + Quantum Kernel SVC Statevector,300,5,81,86,0.5,0.753333,-0.253333,0.0,True,Significant difference in paired error pattern
+HistGradientBoosting,Isolation Forest + VQC Statevector,300,143,148,291,0.5,0.516667,-0.016667,0.814659,False,No statistically significant paired error difference
+HistGradientBoosting,Logistic Regression,300,143,147,290,0.5,0.513333,-0.013333,0.860202,False,No statistically significant paired error difference
+HistGradientBoosting,MLP,300,0,0,0,0.5,0.5,0.0,1.0,False,No statistically significant paired error difference
+HistGradientBoosting,Quantum Kernel SVC Statevector,300,5,81,86,0.5,0.753333,-0.253333,0.0,True,Significant difference in paired error pattern
+HistGradientBoosting,Random Forest,300,71,112,183,0.5,0.636667,-0.136667,0.003002,True,Significant difference in paired error pattern
+HistGradientBoosting,SVM RBF,300,138,68,206,0.5,0.266667,0.233333,1e-06,True,Significant difference in paired error pattern
+HistGradientBoosting,VQC Statevector,300,143,148,291,0.5,0.516667,-0.016667,0.814659,False,No statistically significant paired error difference
+Isolation Forest + Quantum Kernel SVC Statevector,Isolation Forest + VQC Statevector,300,138,67,205,0.753333,0.516667,0.236667,1e-06,True,Significant difference in paired error pattern
+Isolation Forest + Quantum Kernel SVC Statevector,Logistic Regression,300,139,67,206,0.753333,0.513333,0.24,1e-06,True,Significant difference in paired error pattern
+Isolation Forest + Quantum Kernel SVC Statevector,MLP,300,81,5,86,0.753333,0.5,0.253333,0.0,True,Significant difference in paired error pattern
+Isolation Forest + Quantum Kernel SVC Statevector,Quantum Kernel SVC Statevector,300,0,0,0,0.753333,0.753333,0.0,1.0,False,No statistically significant paired error difference
+Isolation Forest + Quantum Kernel SVC Statevector,Random Forest,300,66,31,97,0.753333,0.636667,0.116667,0.00049,True,Significant difference in paired error pattern
+Isolation Forest + Quantum Kernel SVC Statevector,SVM RBF,300,218,72,290,0.753333,0.266667,0.486667,0.0,True,Significant difference in paired error pattern
+Isolation Forest + Quantum Kernel SVC Statevector,VQC Statevector,300,138,67,205,0.753333,0.516667,0.236667,1e-06,True,Significant difference in paired error pattern
+Isolation Forest + VQC Statevector,Logistic Regression,300,1,0,1,0.516667,0.513333,0.003333,1.0,False,No statistically significant paired error difference
+Isolation Forest + VQC Statevector,MLP,300,148,143,291,0.516667,0.5,0.016667,0.814659,False,No statistically significant paired error difference
+Isolation Forest + VQC Statevector,Quantum Kernel SVC Statevector,300,67,138,205,0.516667,0.753333,-0.236667,1e-06,True,Significant difference in paired error pattern
+Isolation Forest + VQC Statevector,Random Forest,300,36,72,108,0.516667,0.636667,-0.12,0.000684,True,Significant difference in paired error pattern
+Isolation Forest + VQC Statevector,SVM RBF,300,80,5,85,0.516667,0.266667,0.25,0.0,True,Significant difference in paired error pattern
+Isolation Forest + VQC Statevector,VQC Statevector,300,0,0,0,0.516667,0.516667,0.0,1.0,False,No statistically significant paired error difference
+Logistic Regression,MLP,300,147,143,290,0.513333,0.5,0.013333,0.860202,False,No statistically significant paired error difference
+Logistic Regression,Quantum Kernel SVC Statevector,300,67,139,206,0.513333,0.753333,-0.24,1e-06,True,Significant difference in paired error pattern
+Logistic Regression,Random Forest,300,36,73,109,0.513333,0.636667,-0.123333,0.000505,True,Significant difference in paired error pattern
+Logistic Regression,SVM RBF,300,80,6,86,0.513333,0.266667,0.246667,0.0,True,Significant difference in paired error pattern
+Logistic Regression,VQC Statevector,300,0,1,1,0.513333,0.516667,-0.003333,1.0,False,No statistically significant paired error difference
+MLP,Quantum Kernel SVC Statevector,300,5,81,86,0.5,0.753333,-0.253333,0.0,True,Significant difference in paired error pattern
+MLP,Random Forest,300,71,112,183,0.5,0.636667,-0.136667,0.003002,True,Significant difference in paired error pattern
+MLP,SVM RBF,300,138,68,206,0.5,0.266667,0.233333,1e-06,True,Significant difference in paired error pattern
+MLP,VQC Statevector,300,143,148,291,0.5,0.516667,-0.016667,0.814659,False,No statistically significant paired error difference
+Quantum Kernel SVC Statevector,Random Forest,300,66,31,97,0.753333,0.636667,0.116667,0.00049,True,Significant difference in paired error pattern
+Quantum Kernel SVC Statevector,SVM RBF,300,218,72,290,0.753333,0.266667,0.486667,0.0,True,Significant difference in paired error pattern
+Quantum Kernel SVC Statevector,VQC Statevector,300,138,67,205,0.753333,0.516667,0.236667,1e-06,True,Significant difference in paired error pattern
+Random Forest,SVM RBF,300,152,41,193,0.636667,0.266667,0.37,0.0,True,Significant difference in paired error pattern
+Random Forest,VQC Statevector,300,72,36,108,0.636667,0.516667,0.12,0.000684,True,Significant difference in paired error pattern
+SVM RBF,VQC Statevector,300,5,80,85,0.266667,0.516667,-0.25,0.0,True,Significant difference in paired error pattern

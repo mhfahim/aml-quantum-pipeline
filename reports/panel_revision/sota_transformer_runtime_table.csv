@@ -1,0 +1,3 @@
+scope,model,device,train_rows,valid_rows,test_rows,training_time_seconds,test_inference_time_seconds,total_runtime_seconds,best_epoch
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,cpu,500,300,300,12.462969,0.00801,12.470979,8
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,cpu,500,300,300,9.118754,0.007624,9.126379,10

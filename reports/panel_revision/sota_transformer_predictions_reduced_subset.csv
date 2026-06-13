@@ -1,0 +1,601 @@
+scope,model,sample_id,split,label,score,pred,threshold
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,0,test,0,0.5966497659683228,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,1,test,1,0.6267874240875244,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,2,test,0,0.599568784236908,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,3,test,0,0.6215116381645203,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,4,test,0,0.5492619872093201,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,5,test,0,0.06410558521747589,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,6,test,0,0.06790918856859207,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,7,test,1,0.6081424951553345,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,8,test,1,0.5942960977554321,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,9,test,0,0.06358953565359116,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,10,test,1,0.6655586957931519,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,11,test,0,0.5832741856575012,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,12,test,0,0.6160250902175903,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,13,test,1,0.6668494939804077,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,14,test,0,0.0634995698928833,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,15,test,1,0.5325853228569031,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,16,test,1,0.5946953296661377,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,17,test,1,0.6448612809181213,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,18,test,0,0.5521757006645203,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,19,test,0,0.5764018297195435,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,20,test,0,0.6745939254760742,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,21,test,1,0.6254123449325562,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,22,test,0,0.6160656809806824,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,23,test,1,0.6466246843338013,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,24,test,0,0.6144254803657532,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,25,test,0,0.5935932397842407,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,26,test,1,0.651797890663147,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,27,test,0,0.6460620760917664,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,28,test,0,0.06352730840444565,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,29,test,1,0.6219284534454346,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,30,test,1,0.5445565581321716,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,31,test,0,0.561168909072876,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,32,test,0,0.5763952732086182,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,33,test,1,0.5918503999710083,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,34,test,0,0.6368520259857178,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,35,test,1,0.5953079462051392,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,36,test,0,0.6774994134902954,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,37,test,0,0.6274337768554688,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,38,test,0,0.6808387041091919,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,39,test,0,0.5557554364204407,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,40,test,1,0.6022536754608154,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,41,test,1,0.5780393481254578,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,42,test,0,0.5449976325035095,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,43,test,0,0.6385623216629028,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,44,test,1,0.6485224366188049,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,45,test,0,0.063529834151268,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,46,test,0,0.06401988863945007,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,47,test,1,0.6262273192405701,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,48,test,1,0.6505745649337769,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,49,test,1,0.6239325404167175,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,50,test,1,0.6461929678916931,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,51,test,1,0.6628612279891968,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,52,test,0,0.06339626759290695,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,53,test,0,0.6017436385154724,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,54,test,0,0.624452531337738,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,55,test,0,0.6745972037315369,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,56,test,1,0.5835679769515991,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,57,test,1,0.5318084955215454,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,58,test,1,0.5933046936988831,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,59,test,1,0.6038254499435425,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,60,test,0,0.6204138398170471,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,61,test,0,0.0657307580113411,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,62,test,1,0.5899472832679749,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,63,test,0,0.5759976506233215,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,64,test,1,0.5912303328514099,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,65,test,0,0.5768659710884094,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,66,test,1,0.5384556651115417,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,67,test,0,0.6408586502075195,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,68,test,1,0.5321875214576721,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,69,test,0,0.518352746963501,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,70,test,0,0.5960181951522827,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,71,test,0,0.5816035270690918,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,72,test,0,0.6710981130599976,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,73,test,1,0.6588767766952515,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,74,test,0,0.5844452977180481,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,75,test,0,0.0638885349035263,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,76,test,0,0.06366628408432007,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,77,test,0,0.6635891199111938,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,78,test,1,0.5067654848098755,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,79,test,1,0.6209535002708435,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,80,test,0,0.06374230980873108,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,81,test,0,0.5539135932922363,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,82,test,0,0.5997658967971802,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,83,test,1,0.6525523662567139,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,84,test,0,0.5748593211174011,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,85,test,1,0.598145067691803,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,86,test,1,0.5759830474853516,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,87,test,1,0.6144769191741943,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,88,test,0,0.5901326537132263,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,89,test,1,0.589181125164032,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,90,test,1,0.6407362222671509,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,91,test,0,0.668656587600708,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,92,test,0,0.07012385874986649,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,93,test,1,0.6227024793624878,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,94,test,0,0.6499567031860352,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,95,test,1,0.5967445969581604,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,96,test,0,0.0646350234746933,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,97,test,0,0.06467635929584503,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,98,test,0,0.06413821130990982,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,99,test,0,0.591490626335144,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,100,test,0,0.5840482711791992,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,101,test,1,0.6444466710090637,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,102,test,0,0.06398890912532806,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,103,test,0,0.6643747091293335,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,104,test,1,0.593989372253418,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,105,test,0,0.58739173412323,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,106,test,1,0.5613082051277161,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,107,test,0,0.06385138630867004,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,108,test,0,0.6516945958137512,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,109,test,1,0.5683435201644897,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,110,test,1,0.5467011332511902,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,111,test,1,0.666711688041687,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,112,test,1,0.5480155944824219,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,113,test,0,0.6330360770225525,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,114,test,0,0.5522413849830627,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,115,test,1,0.608182430267334,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,116,test,1,0.5579816699028015,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,117,test,1,0.06382152438163757,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,118,test,1,0.5223563313484192,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,119,test,1,0.6084749102592468,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,120,test,0,0.06389255821704865,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,121,test,0,0.6687745451927185,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,122,test,0,0.06620261818170547,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,123,test,0,0.5322690606117249,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,124,test,0,0.6475010514259338,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,125,test,1,0.6445083618164062,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,126,test,0,0.6057562232017517,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,127,test,0,0.6696102619171143,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,128,test,1,0.6220506429672241,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,129,test,0,0.06491567939519882,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,130,test,0,0.6353928446769714,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,131,test,1,0.624338686466217,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,132,test,1,0.6199821829795837,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,133,test,1,0.5723711252212524,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,134,test,1,0.5935882329940796,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,135,test,1,0.6166211366653442,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,136,test,0,0.6686579585075378,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,137,test,1,0.5930292010307312,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,138,test,0,0.06341198086738586,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,139,test,0,0.680979311466217,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,140,test,1,0.5854740738868713,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,141,test,0,0.0636562928557396,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,142,test,0,0.5504717826843262,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,143,test,1,0.6478928327560425,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,144,test,0,0.6717244386672974,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,145,test,0,0.6284475326538086,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,146,test,0,0.06650727987289429,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,147,test,1,0.6248082518577576,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,148,test,0,0.5987133979797363,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,149,test,0,0.5782995223999023,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,150,test,1,0.6705269813537598,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,151,test,1,0.6467389464378357,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,152,test,1,0.5392079949378967,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,153,test,0,0.5399792790412903,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,154,test,1,0.657696545124054,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,155,test,0,0.547234296798706,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,156,test,0,0.06483043730258942,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,157,test,1,0.623849630355835,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,158,test,0,0.6073892712593079,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,159,test,0,0.591749370098114,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,160,test,1,0.5834733247756958,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,161,test,0,0.6649219989776611,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,162,test,1,0.6384950876235962,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,163,test,1,0.5714116096496582,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,164,test,0,0.5425487756729126,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,165,test,0,0.6308560967445374,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,166,test,0,0.06854024529457092,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,167,test,1,0.5954598188400269,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,168,test,1,0.06571388989686966,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,169,test,0,0.6107928156852722,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,170,test,1,0.5282207727432251,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,171,test,0,0.06353491544723511,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,172,test,1,0.6333723664283752,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,173,test,1,0.6572040915489197,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,174,test,1,0.5311256647109985,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,175,test,1,0.674858808517456,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,176,test,0,0.06901253759860992,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,177,test,0,0.06533081084489822,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,178,test,0,0.06343819200992584,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,179,test,1,0.5964953899383545,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,180,test,1,0.5674811005592346,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,181,test,0,0.06394556909799576,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,182,test,1,0.6587700843811035,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,183,test,0,0.5463041663169861,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,184,test,1,0.6072883009910583,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,185,test,1,0.603062093257904,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,186,test,0,0.6325343251228333,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,187,test,1,0.6220430731773376,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,188,test,1,0.5727185010910034,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,189,test,0,0.5269153118133545,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,190,test,1,0.5555803775787354,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,191,test,1,0.6364479064941406,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,192,test,0,0.06394334137439728,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,193,test,0,0.6670793890953064,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,194,test,1,0.6621382236480713,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,195,test,1,0.5643205046653748,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,196,test,1,0.6438961625099182,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,197,test,1,0.5937499403953552,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,198,test,1,0.5896134376525879,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,199,test,1,0.6564165949821472,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,200,test,0,0.6570162177085876,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,201,test,0,0.5864669680595398,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,202,test,0,0.06471563130617142,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,203,test,1,0.5520937442779541,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,204,test,0,0.06369467824697495,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,205,test,0,0.6098988056182861,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,206,test,1,0.6128149628639221,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,207,test,1,0.6043055057525635,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,208,test,0,0.07007656246423721,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,209,test,1,0.607370138168335,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,210,test,1,0.5967374444007874,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,211,test,0,0.5528724193572998,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,212,test,1,0.656254231929779,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,213,test,1,0.6202908158302307,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,214,test,1,0.6492405533790588,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,215,test,1,0.6508998274803162,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,216,test,1,0.5463300943374634,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,217,test,0,0.6796392798423767,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,218,test,1,0.5998449921607971,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,219,test,1,0.5848342180252075,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,220,test,1,0.5945937633514404,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,221,test,1,0.590528130531311,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,222,test,0,0.06818950176239014,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,223,test,0,0.06361699849367142,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,224,test,0,0.5704675316810608,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,225,test,1,0.5320568084716797,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,226,test,1,0.6669623255729675,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,227,test,1,0.6405499577522278,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,228,test,0,0.5650202631950378,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,229,test,1,0.6003499031066895,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,230,test,0,0.5825114250183105,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,231,test,1,0.6157107949256897,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,232,test,0,0.5527100563049316,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,233,test,1,0.598375678062439,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,234,test,0,0.5492715239524841,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,235,test,1,0.6799936890602112,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,236,test,1,0.6115975379943848,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,237,test,1,0.616712212562561,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,238,test,0,0.6530008316040039,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,239,test,0,0.06383194774389267,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,240,test,0,0.5854377150535583,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,241,test,1,0.5344816446304321,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,242,test,0,0.06416667997837067,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,243,test,1,0.5397139191627502,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,244,test,1,0.6535926461219788,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,245,test,1,0.562811553478241,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,246,test,1,0.6003430485725403,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,247,test,0,0.06684239953756332,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,248,test,1,0.5890836715698242,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,249,test,0,0.07014758884906769,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,250,test,0,0.06341778486967087,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,251,test,0,0.0663614347577095,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,252,test,1,0.612246036529541,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,253,test,0,0.5643767714500427,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,254,test,1,0.6087402701377869,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,255,test,1,0.6000769734382629,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,256,test,1,0.6391732096672058,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,257,test,0,0.6043527722358704,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,258,test,0,0.5199095606803894,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,259,test,1,0.5942803621292114,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,260,test,1,0.6152513027191162,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,261,test,1,0.5480568408966064,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,262,test,1,0.6199263334274292,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,263,test,0,0.06702692061662674,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,264,test,0,0.06395301222801208,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,265,test,1,0.5891920328140259,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,266,test,1,0.5628281235694885,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,267,test,0,0.0634012445807457,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,268,test,0,0.5957517027854919,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,269,test,1,0.6029775738716125,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,270,test,1,0.6000708341598511,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,271,test,0,0.6616719365119934,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,272,test,1,0.6003437638282776,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,273,test,0,0.06442789733409882,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,274,test,1,0.5871682167053223,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,275,test,1,0.6440535187721252,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,276,test,0,0.06487266719341278,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,277,test,0,0.06750498712062836,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,278,test,0,0.6088440418243408,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,279,test,0,0.5344212055206299,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,280,test,0,0.6166574358940125,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,281,test,0,0.5688167810440063,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,282,test,1,0.6492409110069275,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,283,test,0,0.5665261149406433,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,284,test,1,0.6151114106178284,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,285,test,0,0.6507235765457153,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,286,test,1,0.556367039680481,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,287,test,1,0.6438076496124268,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,288,test,0,0.6140720248222351,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,289,test,1,0.5329180955886841,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,290,test,1,0.6330354809761047,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,291,test,1,0.6809717416763306,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,292,test,1,0.6378054022789001,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,293,test,0,0.063499815762043,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,294,test,0,0.6636707782745361,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,295,test,0,0.589776337146759,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,296,test,1,0.6701369881629944,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,297,test,0,0.5254883170127869,0,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,298,test,1,0.6369031667709351,1,0.5305690765380859
+same_reduced_four_feature_subset,FT-Transformer-style Tabular Classifier,299,test,1,0.6413259506225586,1,0.5305690765380859
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,0,test,0,0.5938264727592468,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,1,test,1,0.6122933030128479,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,2,test,0,0.5954165458679199,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,3,test,0,0.6085837483406067,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,4,test,0,0.569825291633606,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,5,test,0,0.034387875348329544,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,6,test,0,0.06688862293958664,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,7,test,1,0.6002544164657593,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,8,test,1,0.592560887336731,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,9,test,0,0.018192367628216743,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,10,test,1,0.6635891199111938,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,11,test,0,0.5867829322814941,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,12,test,0,0.6050137877464294,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,13,test,1,0.6664019823074341,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,14,test,0,0.01899039000272751,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,15,test,1,0.5619825124740601,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,16,test,1,0.5927745699882507,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,17,test,1,0.6286700963973999,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,18,test,0,0.5712354183197021,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,19,test,0,0.583269476890564,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,20,test,0,0.6819078326225281,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,21,test,1,0.6112956404685974,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,22,test,0,0.6050393581390381,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,23,test,1,0.6307617425918579,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,24,test,0,0.6040170192718506,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,25,test,0,0.5921855568885803,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,26,test,1,0.6377075910568237,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,27,test,0,0.6300807595252991,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,28,test,0,0.018701722845435143,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,29,test,1,0.6088659763336182,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,30,test,1,0.5675697922706604,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,31,test,0,0.5756426453590393,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,32,test,0,0.5832661986351013,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,33,test,1,0.5912594199180603,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,34,test,0,0.6204874515533447,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,35,test,1,0.5931032299995422,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,36,test,0,0.6718931794166565,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,37,test,0,0.612770676612854,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,38,test,0,0.688553512096405,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,39,test,0,0.5729804039001465,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,40,test,1,0.5969020128250122,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,41,test,1,0.5841019153594971,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,42,test,0,0.5677799582481384,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,43,test,0,0.6220811605453491,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,44,test,1,0.6331597566604614,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,45,test,0,0.026490794494748116,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,46,test,0,0.016651129350066185,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,47,test,1,0.6118839979171753,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,48,test,1,0.6359438896179199,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,49,test,1,0.6102472543716431,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,50,test,1,0.6302379965782166,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,51,test,1,0.657761812210083,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,52,test,0,0.021343296393752098,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,53,test,0,0.5966179370880127,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,54,test,0,0.6106127500534058,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,55,test,0,0.6819133758544922,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,56,test,1,0.5869344472885132,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,57,test,1,0.5616288185119629,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,58,test,1,0.5920317769050598,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,59,test,1,0.5977831482887268,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,60,test,0,0.607848584651947,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,61,test,0,0.04988126829266548,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,62,test,1,0.5902551412582397,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,63,test,0,0.5830644965171814,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,64,test,1,0.5909314155578613,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,65,test,0,0.5835052132606506,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,66,test,1,0.5646920204162598,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,67,test,0,0.6243414282798767,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,68,test,1,0.5618011951446533,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,69,test,0,0.5557231307029724,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,70,test,0,0.5934855341911316,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,71,test,0,0.5859237313270569,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,72,test,0,0.6753490567207336,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,73,test,1,0.6496775150299072,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,74,test,0,0.5873875021934509,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,75,test,0,0.031810298562049866,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,76,test,0,0.017727993428707123,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,77,test,0,0.6411248445510864,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,78,test,1,0.5510320663452148,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,79,test,1,0.6082085967063904,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,80,test,0,0.02988334186375141,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,81,test,0,0.5720809102058411,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,82,test,0,0.595524787902832,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,83,test,1,0.638836681842804,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,84,test,0,0.5824878811836243,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,85,test,1,0.5946380496025085,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,86,test,1,0.5830570459365845,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,87,test,1,0.6040489077568054,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,88,test,0,0.5903526544570923,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,89,test,1,0.5898527503013611,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,90,test,1,0.6242172122001648,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,91,test,0,0.6702937483787537,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,92,test,0,0.08198939263820648,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,93,test,1,0.6093944311141968,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,94,test,0,0.6350833773612976,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,95,test,1,0.5938778519630432,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,96,test,0,0.01652553305029869,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,97,test,0,0.04034062847495079,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,98,test,0,0.034754734486341476,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,99,test,0,0.5910689830780029,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,100,test,0,0.587182343006134,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,101,test,1,0.6281959414482117,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,102,test,0,0.016702815890312195,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,103,test,0,0.6610131859779358,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,104,test,1,0.5923969745635986,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,105,test,0,0.588917076587677,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,106,test,1,0.5757115483283997,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,107,test,0,0.01701333373785019,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,108,test,0,0.6375554800033569,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,109,test,1,0.579210102558136,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,110,test,1,0.568594217300415,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,111,test,1,0.6469759345054626,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,112,test,1,0.5692250728607178,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,113,test,0,0.6171677112579346,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,114,test,0,0.571267306804657,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,115,test,1,0.6002776622772217,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,116,test,1,0.574072003364563,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,117,test,1,0.01710142008960247,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,118,test,1,0.5081924200057983,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,119,test,1,0.6004481911659241,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,120,test,0,0.03186069428920746,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,121,test,0,0.6705443859100342,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,122,test,0,0.05380702391266823,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,123,test,0,0.5618383288383484,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,124,test,0,0.6318491697311401,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,125,test,1,0.6282659769058228,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,126,test,0,0.5988785624504089,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,127,test,0,0.6528173685073853,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,128,test,1,0.6089489459991455,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,129,test,0,0.04262838885188103,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,130,test,0,0.6191818714141846,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,131,test,1,0.6105324029922485,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,132,test,1,0.6075626015663147,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,133,test,1,0.5812317728996277,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,134,test,1,0.5921828150749207,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,135,test,1,0.6053898930549622,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,136,test,0,0.6508491635322571,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,137,test,1,0.5918850898742676,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,138,test,0,0.02056075632572174,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,139,test,0,0.6882264614105225,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,140,test,1,0.587920069694519,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,141,test,0,0.017781082540750504,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,142,test,0,0.5704095959663391,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,143,test,1,0.6323462724685669,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,144,test,0,0.6765918135643005,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,145,test,0,0.613530695438385,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,146,test,0,0.05626010149717331,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,147,test,1,0.6108646392822266,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,148,test,0,0.5949480533599854,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,149,test,0,0.5842344164848328,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,150,test,1,0.6741944551467896,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,151,test,1,0.6309016942977905,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,152,test,1,0.5650437474250793,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,153,test,0,0.5654052495956421,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,154,test,1,0.6474602818489075,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,155,test,0,0.5688498616218567,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,156,test,0,0.04182403162121773,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,157,test,1,0.6101893186569214,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,158,test,0,0.5998173952102661,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,159,test,0,0.591205894947052,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,160,test,1,0.5868856906890869,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,161,test,0,0.6622018814086914,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,162,test,1,0.6220171451568604,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,163,test,1,0.5807488560676575,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,164,test,0,0.5666164755821228,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,165,test,0,0.6153969764709473,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,166,test,0,0.07137870043516159,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,167,test,1,0.5931849479675293,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,168,test,1,0.04255165532231331,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,169,test,0,0.6018146872520447,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,170,test,1,0.56001216173172,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,171,test,0,0.02658713236451149,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,172,test,1,0.6174485087394714,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,173,test,1,0.6465615630149841,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,174,test,1,0.5613189935684204,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,175,test,1,0.6823616027832031,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,176,test,0,0.07463662326335907,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,177,test,0,0.046410106122493744,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,178,test,0,0.019896110519766808,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,179,test,1,0.593743085861206,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,180,test,1,0.5787791013717651,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,181,test,0,0.01678556762635708,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,182,test,1,0.6494733095169067,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,183,test,0,0.5684041380882263,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,184,test,1,0.5997589826583862,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,185,test,1,0.5973540544509888,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,186,test,0,0.6167527437210083,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,187,test,1,0.60894376039505,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,188,test,1,0.5814067721366882,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,189,test,0,0.5594310164451599,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,190,test,1,0.572894811630249,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,191,test,1,0.6201210618019104,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,192,test,0,0.016790157184004784,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,193,test,0,0.6669012308120728,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,194,test,1,0.6562358140945435,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,195,test,1,0.5772044062614441,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,196,test,1,0.6275760531425476,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,197,test,1,0.5922691226005554,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,198,test,1,0.590079665184021,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,199,test,1,0.6451572179794312,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,200,test,0,0.6462228894233704,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,201,test,0,0.5884355902671814,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,202,test,0,0.04072270914912224,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,203,test,1,0.571195662021637,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,204,test,0,0.029203858226537704,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,205,test,0,0.6012843251228333,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,206,test,1,0.6030307412147522,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,207,test,1,0.5980541706085205,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,208,test,0,0.08168492466211319,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,209,test,1,0.5998063087463379,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,210,test,1,0.593873918056488,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,211,test,0,0.5715739727020264,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,212,test,1,0.644872784614563,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,213,test,1,0.6077669858932495,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,214,test,1,0.6341102123260498,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,215,test,1,0.6364049911499023,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,216,test,1,0.5684165358543396,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,217,test,0,0.6886631846427917,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,218,test,1,0.5955682992935181,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,219,test,1,0.5875886082649231,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,220,test,1,0.5927202105522156,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,221,test,1,0.5905609130859375,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,222,test,0,0.06890347599983215,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,223,test,0,0.01800970546901226,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,224,test,0,0.5802745819091797,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,225,test,1,0.5617417097091675,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,226,test,1,0.6666470766067505,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,227,test,1,0.6240289807319641,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,228,test,0,0.577552318572998,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,229,test,1,0.5958462953567505,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,230,test,0,0.5863902568817139,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,231,test,1,0.6048166155815125,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,232,test,0,0.5714950561523438,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,233,test,1,0.5947636961936951,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,234,test,0,0.5698298811912537,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,235,test,1,0.6801310181617737,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,236,test,1,0.6022957563400269,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,237,test,1,0.6054475903511047,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,238,test,0,0.6395233273506165,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,239,test,0,0.017069630324840546,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,240,test,0,0.58790123462677,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,241,test,1,0.5628506541252136,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,242,test,0,0.016479022800922394,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,243,test,1,0.5652807950973511,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,244,test,1,0.6404478549957275,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,245,test,1,0.5764556527137756,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,246,test,1,0.5958424806594849,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,247,test,0,0.058893539011478424,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,248,test,1,0.5898016691207886,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,249,test,0,0.0821419432759285,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,250,test,0,0.020380821079015732,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,251,test,0,0.05509317293763161,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,252,test,1,0.6026861667633057,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,253,test,0,0.5772324204444885,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,254,test,1,0.6006032228469849,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,255,test,1,0.5956959128379822,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,256,test,1,0.6226683259010315,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,257,test,0,0.5980808734893799,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,258,test,0,0.5563830733299255,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,259,test,1,0.5925524830818176,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,260,test,1,0.6045294404029846,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,261,test,1,0.569244921207428,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,262,test,1,0.6075257658958435,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,263,test,0,0.06031663715839386,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,264,test,0,0.03260420262813568,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,265,test,1,0.5898585319519043,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,266,test,1,0.5764638781547546,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,267,test,0,0.021007465198636055,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,268,test,0,0.5933419466018677,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,269,test,1,0.5973067283630371,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,270,test,1,0.5956925749778748,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,271,test,0,0.6552637815475464,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,272,test,1,0.5958428978919983,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,273,test,0,0.037854164838790894,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,274,test,1,0.5888006091117859,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,275,test,1,0.6277521252632141,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,276,test,0,0.04222382605075836,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,277,test,0,0.06392320990562439,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,278,test,0,0.600663959980011,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,279,test,0,0.5628228783607483,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,280,test,0,0.6054128408432007,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,281,test,0,0.5794469118118286,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,282,test,1,0.634110689163208,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,283,test,0,0.5783024430274963,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,284,test,1,0.6044423580169678,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,285,test,0,0.6361544728279114,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,286,test,1,0.573279857635498,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,287,test,1,0.6274773478507996,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,288,test,0,0.6037991642951965,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,289,test,1,0.5621342658996582,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,290,test,1,0.6171672940254211,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,291,test,1,0.6849417090415955,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,292,test,1,0.6213669776916504,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,293,test,0,0.025886939838528633,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,294,test,0,0.6594928503036499,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,295,test,0,0.5901652574539185,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,296,test,1,0.6539289951324463,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,297,test,0,0.5588002800941467,0,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,298,test,1,0.6205340623855591,1,0.5610671877861023
+same_reduced_four_feature_subset,AutoInt-style Attention Tabular Classifier,299,test,1,0.6248198747634888,1,0.5610671877861023

@@ -1,0 +1,10 @@
+Panel Revision Statistical Significance Summary
+================================================
+
+Tests included:
+1. McNemar exact test for paired threshold-level prediction disagreement.
+2. Paired bootstrap tests for Accuracy, Precision, Recall, F1-score, FPR, ROC-AUC, and PR-AUC.
+3. Low Accuracy / High FPR diagnostic table based on confusion matrix results.
+
+Important note: Pairwise tests are performed only inside the same evaluation scope.
+No cross-scope comparison is made between full-scale, reduced-subset, and hardware settings.
